@@ -1,0 +1,1001 @@
+Name,DateTime,AnimalType,AgeuponOutcome,Breed,Color,neutered/spayed,adopted
+Hambone,2/12/2014 18:22:00,Dog,1 year,Shetland Sheepdog Mix,Brown/White,1,0
+Emily,10/13/2013 12:44:00,Cat,1 year,Domestic Shorthair Mix,Cream Tabby,1,0
+Pearce,1/31/2015 12:28:00,Dog,2 years,Pit Bull Mix,Blue/White,1,1
+,7/11/2014 19:09:00,Cat,3 weeks,Domestic Shorthair Mix,Blue Cream,0,0
+,11/15/2013 12:52:00,Dog,2 years,Lhasa Apso/Miniature Poodle,Tan,1,0
+Elsa,4/25/2014 13:04:00,Dog,1 month,Cairn Terrier/Chihuahua Shorthair,Black/Tan,0,0
+Jimmy,3/28/2015 13:11:00,Cat,3 weeks,Domestic Shorthair Mix,Blue Tabby,0,0
+,4/30/2015 17:02:00,Cat,3 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Lucy,2/4/2014 17:17:00,Dog,5 months,American Pit Bull Terrier Mix,Red/White,1,1
+,5/3/2014 7:48:00,Dog,1 year,Cairn Terrier,White,1,1
+,12/5/2013 15:50:00,Cat,2 years,Domestic Shorthair Mix,Black,0,0
+,11/4/2013 14:48:00,Dog,2 years,Miniature Schnauzer Mix,Silver,1,1
+Rocket,2/3/2016 11:27:00,Dog,4 years,Pit Bull Mix,Brown,1,1
+Scooter,6/8/2015 16:30:00,Dog,2 years,Yorkshire Terrier Mix,Black/Red,1,0
+Preston,11/25/2015 15:00:00,Dog,1 year,Great Pyrenees Mix,White/Cream,1,0
+Oliver,7/12/2014 12:10:00,Cat,3 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+,5/3/2014 16:15:00,Cat,3 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+,6/7/2014 12:54:00,Dog,2 weeks,Pit Bull Mix,Brown/White,0,0
+Chrissy,5/17/2014 11:32:00,Cat,2 years,Angora Mix,White,0,0
+Kuma,7/30/2014 17:34:00,Dog,1 year,Flat Coat Retriever Mix,Black,1,0
+Anders,1/19/2014 15:03:00,Dog,2 months,Queensland Heeler Mix,Black/White,0,0
+Munchkin,9/18/2015 15:19:00,Cat,1 year,Domestic Shorthair Mix,White,1,0
+Jamaica,8/15/2015 14:22:00,Dog,2 years,Plott Hound/Boxer,Brown Brindle/White,1,1
+Quattro,10/28/2013 16:32:00,Dog,10 months,German Shepherd Mix,Brown/White,1,1
+Trigger,4/9/2014 17:44:00,Dog,2 months,German Shepherd Mix,Black/Brown,1,0
+Olive,10/3/2015 15:44:00,Cat,1 month,Domestic Shorthair Mix,Orange Tabby,0,0
+Nia,1/15/2016 17:31:00,Dog,6 months,American Staffordshire Terrier Mix,Chocolate/White,1,1
+Chloe,3/25/2015 18:50:00,Dog,5 years,Chihuahua Shorthair Mix,White/Tan,1,1
+Cymbale,11/21/2015 13:01:00,Cat,2 months,Domestic Shorthair Mix,Cream Tabby/White,1,1
+Jax,7/30/2015 14:30:00,Cat,7 years,Russian Blue Mix,Blue,1,0
+,1/1/2016 13:57:00,Cat,3 years,Domestic Shorthair Mix,Calico,1,0
+Murphy,7/15/2015 15:25:00,Dog,4 months,Labrador Retriever Mix,Black/White,0,0
+,7/3/2014 17:01:00,Cat,2 months,Domestic Shorthair Mix,Torbie,1,1
+Jesse,11/8/2013 13:24:00,Dog,5 years,Collie Smooth/German Shepherd,Brown/Black,1,0
+Delgado,4/11/2015 16:01:00,Dog,3 years,Chihuahua Shorthair Mix,Brown,1,0
+,12/6/2013 14:55:00,Dog,3 years,Labrador Retriever Mix,Yellow,0,0
+Pony Boy,10/24/2013 11:22:00,Dog,3 years,Pit Bull Mix,Brown/White,1,0
+,7/2/2014 13:37:00,Cat,2 months,Domestic Shorthair Mix,Blue/White,0,0
+Mica,8/11/2015 0:00:00,Cat,4 months,Domestic Shorthair Mix,Black/White,1,0
+,7/14/2015 12:16:00,Cat,3 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Pilar,4/4/2015 17:26:00,Cat,7 years,Domestic Shorthair Mix,Blue Tabby,1,1
+,6/23/2015 13:25:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby,0,0
+Lucy,12/9/2013 15:04:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,0,0
+,1/21/2014 15:15:00,Cat,4 years,Domestic Longhair Mix,Black/White,0,0
+Ali,5/28/2014 15:52:00,Cat,2 years,Domestic Shorthair Mix,Black/White,1,1
+Chester,8/27/2014 7:50:00,Dog,12 years,Beagle,Tricolor,1,0
+Daisy,8/5/2014 11:15:00,Cat,9 years,Domestic Shorthair Mix,White/Black,1,0
+,5/5/2015 11:46:00,Cat,3 weeks,Domestic Shorthair Mix,Black,0,0
+Edith,3/9/2015 17:57:00,Dog,5 months,German Shepherd Mix,Black/Brown,1,1
+,10/30/2013 15:37:00,Dog,6 years,Pit Bull/Labrador Retriever,Chocolate/White,0,0
+,7/28/2014 9:00:00,Cat,1 year,Domestic Shorthair Mix,Tortie,0,0
+Caty,10/19/2015 18:58:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby,1,1
+,6/26/2014 17:16:00,Cat,3 weeks,Domestic Shorthair Mix,Blue Tabby/White,0,0
+Gabe,5/14/2015 12:07:00,Dog,2 years,Blue Lacy Mix,Gray/White,1,1
+Beth,11/18/2014 16:05:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+,10/4/2015 15:02:00,Cat,1 weeks,Domestic Shorthair Mix,Black,0,0
+Bashful,8/16/2015 13:52:00,Cat,2 months,Domestic Shorthair Mix,Calico,1,1
+,7/18/2014 16:23:00,Dog,1 year,Chihuahua Shorthair Mix,Tan,0,0
+Lola,9/16/2014 14:05:00,Dog,4 years,Black Mouth Cur Mix,Tan/Black,1,0
+Sugar,7/7/2014 12:38:00,Dog,2 years,Dachshund/Beagle,Brown/White,1,1
+Orangejello,8/19/2015 13:32:00,Cat,1 year,Domestic Shorthair Mix,Orange Tabby/White,0,0
+Prec Punkin',5/9/2014 18:07:00,Dog,11 years,Yorkshire Terrier Mix,Brown/Black,1,0
+Wilma,10/6/2015 15:07:00,Cat,1 month,Domestic Shorthair Mix,Black,0,0
+Bella,9/23/2015 11:45:00,Dog,2 years,Dachshund Mix,Tan/White,1,1
+,7/17/2014 17:31:00,Cat,2 weeks,Domestic Shorthair Mix,Black,0,0
+Chiquita,10/27/2015 18:32:00,Dog,6 years,Maltese Mix,White,1,0
+Hero,12/8/2014 15:53:00,Dog,6 months,Pointer Mix,Black/White,1,0
+Molly,9/8/2015 15:31:00,Dog,2 months,English Foxhound,Buff,0,0
+,6/16/2015 9:00:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Bella,5/10/2014 18:18:00,Dog,1 year,Chihuahua Shorthair Mix,Red,1,1
+Chili,4/30/2014 17:55:00,Dog,2 months,Vizsla Mix,Brown,1,1
+Hastings,1/29/2016 14:53:00,Dog,2 years,Pit Bull Mix,Brown Brindle/White,1,0
+,3/25/2014 18:15:00,Dog,3 years,German Shepherd/Great Pyrenees,White,1,1
+Tootsie,8/18/2015 11:32:00,Cat,1 year,Domestic Shorthair Mix,Black,0,0
+Snookie,12/28/2013 16:17:00,Dog,4 years,Yorkshire Terrier Mix,Blue/Tan,1,0
+Abby,8/19/2015 14:28:00,Dog,2 years,Cardigan Welsh Corgi/Chihuahua Shorthair,Tan,1,0
+Nym,6/22/2014 17:22:00,Cat,3 months,Domestic Longhair,Brown Tabby,1,1
+,3/21/2014 17:09:00,Cat,1 year,Domestic Shorthair Mix,Calico,0,0
+Zeus,6/7/2015 16:07:00,Dog,2 months,Chow Chow/Pit Bull,Black,1,1
+,12/20/2015 19:38:00,Cat,2 years,Domestic Shorthair Mix,Black/White,1,0
+Charlie,12/17/2015 12:10:00,Dog,1 year,Chihuahua Shorthair,White,1,1
+,9/22/2015 12:10:00,Cat,2 weeks,Domestic Shorthair Mix,Blue Tabby,0,0
+Taco,5/30/2015 18:56:00,Cat,4 weeks,Siamese Mix,Seal Point,0,0
+,10/12/2015 9:00:00,Cat,2 years,Domestic Shorthair Mix,Blue Tabby,0,0
+Avaddon,2/9/2015 17:17:00,Dog,12 years,Pit Bull Mix,Brown Brindle,1,0
+,9/14/2014 18:51:00,Dog,1 year,Dachshund/Beagle,Brown/White,1,1
+Arthur,7/18/2015 15:37:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+,7/14/2015 15:04:00,Cat,2 weeks,Domestic Shorthair Mix,Black,0,0
+,4/26/2014 18:00:00,Dog,3 months,Labrador Retriever Mix,Black/White,0,0
+,11/18/2013 15:56:00,Cat,3 months,Domestic Medium Hair Mix,Calico,1,1
+Freeway,12/15/2015 14:16:00,Dog,5 months,Plott Hound Mix,Brown Brindle/White,1,1
+Chloe,2/7/2016 14:54:00,Dog,3 years,Boxer/Great Dane,Black,1,1
+Georgia,4/10/2014 11:49:00,Dog,7 years,Lhasa Apso,White/Black,1,0
+Hero,2/6/2015 18:56:00,Dog,2 years,German Shepherd Mix,Black/Tan,1,0
+Thelma,12/29/2014 15:11:00,Cat,4 months,Domestic Shorthair Mix,Black,1,1
+Darcy,11/15/2015 14:06:00,Dog,9 years,Beagle/Treeing Walker Coonhound,White/Brown,1,1
+Taz,12/6/2015 15:12:00,Dog,7 months,Border Collie Mix,Black/White,1,0
+,7/14/2014 19:28:00,Cat,2 months,Domestic Shorthair Mix,Black/White,1,1
+,10/24/2014 9:00:00,Cat,3 years,Domestic Shorthair Mix,Black/White,0,0
+,1/14/2015 16:18:00,Dog,3 years,Border Terrier Mix,Gray,1,1
+Poppy,5/29/2014 17:43:00,Dog,5 years,Chihuahua Shorthair Mix,Tan/White,1,1
+Dexter,1/28/2016 12:05:00,Dog,5 years,Boxer Mix,Brown Brindle/White,1,0
+,10/16/2013 11:50:00,Cat,2 weeks,Domestic Medium Hair Mix,Blue,0,0
+,7/26/2015 14:40:00,Cat,2 weeks,Domestic Shorthair Mix,Black,0,0
+Matty,1/30/2014 14:41:00,Cat,4 years,Domestic Shorthair Mix,Torbie,1,0
+Chubbs,4/8/2015 18:06:00,Dog,4 years,Cairn Terrier Mix,Tan/White,1,0
+Lilly,7/19/2015 18:27:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Minnie,12/20/2013 12:02:00,Dog,2 years,Chihuahua Shorthair Mix,Black/Tan,1,0
+Santiago,3/23/2014 18:43:00,Dog,2 years,Dogo Argentino Mix,White,1,1
+Franklin,3/29/2014 11:26:00,Dog,9 years,Dachshund Mix,Black/Brown,1,0
+Myles,2/11/2014 18:16:00,Dog,5 years,Beagle Mix,Tricolor,1,0
+Wiz,12/6/2013 16:53:00,Dog,1 year,Chihuahua Shorthair/Dachshund,Yellow Brindle/White,1,0
+Abby,10/20/2013 16:37:00,Dog,2 years,Pit Bull Mix,Fawn/White,1,1
+,5/6/2014 15:59:00,Cat,3 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Boss,7/6/2015 15:48:00,Dog,5 months,Pit Bull Mix,White/Brown,0,0
+,1/26/2015 16:23:00,Cat,6 years,Domestic Shorthair Mix,Orange Tabby,0,0
+Missy,3/22/2014 15:38:00,Dog,1 year,Chihuahua Shorthair Mix,Tan,1,1
+Basil,11/5/2015 0:00:00,Dog,3 months,Chihuahua Shorthair Mix,Black/White,0,0
+Katydid,10/24/2015 18:29:00,Cat,1 month,Domestic Longhair Mix,Calico,0,0
+Kiki,5/3/2015 16:59:00,Dog,3 years,Chihuahua Shorthair Mix,Brown,1,0
+Desmo,4/14/2014 17:00:00,Dog,5 years,Dachshund Mix,Black,1,0
+Pablo,5/26/2014 11:22:00,Dog,8 years,Miniature Schnauzer/Miniature Poodle,Black,1,1
+,9/21/2014 14:15:00,Dog,2 months,Labrador Retriever Mix,Black/White,1,1
+,11/14/2014 11:57:00,Cat,7 years,Domestic Shorthair Mix,Tortie,0,0
+Pandora,10/3/2014 18:43:00,Cat,2 months,Domestic Shorthair Mix,Black,0,1
+Jackson,9/11/2014 17:03:00,Dog,5 years,Pit Bull,Black,1,1
+Watson,1/31/2016 17:22:00,Dog,1 year,Pit Bull Mix,White/Brown,1,1
+,8/24/2014 9:00:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby,0,0
+Levon,3/22/2015 18:40:00,Dog,2 years,Chihuahua Shorthair Mix,Brown/White,1,0
+Snickerdoodl,1/25/2015 11:15:00,Dog,9 years,Labrador Retriever Mix,Chocolate/White,1,0
+Lola,10/22/2015 17:18:00,Dog,3 years,Pit Bull Mix,Red/White,1,1
+Jumbly,10/26/2015 18:39:00,Cat,3 years,Domestic Shorthair Mix,Calico,1,0
+Pearl,1/15/2016 14:03:00,Dog,1 year,Chihuahua Shorthair/Jack Russell Terrier,Black/White,1,1
+Pebbles,1/9/2015 15:28:00,Dog,2 years,Chihuahua Shorthair Mix,Black/Tan,1,0
+Minnie,12/15/2015 17:30:00,Dog,1 year,Pit Bull,Brown Brindle,1,0
+Merlin,6/10/2014 16:41:00,Cat,2 years,Siamese Mix,Flame Point,1,0
+Parsley,5/16/2015 15:19:00,Dog,2 years,Tibetan Terrier Mix,Brown,1,0
+,6/18/2014 9:00:00,Cat,2 years,Domestic Shorthair Mix,Blue/White,0,0
+,10/20/2015 9:00:00,Cat,3 months,Domestic Shorthair Mix,Tortie,0,0
+Abby,11/23/2014 18:55:00,Dog,1 month,Miniature Pinscher/Chihuahua Shorthair,Tricolor,1,1
+,8/5/2014 13:20:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+,2/16/2014 19:38:00,Cat,10 months,Domestic Medium Hair Mix,Cream Tabby,1,1
+Ricky,2/9/2016 16:31:00,Cat,2 years,Domestic Medium Hair Mix,Brown Tabby/White,1,0
+Tom,6/28/2015 15:33:00,Cat,2 months,Domestic Medium Hair Mix,Calico,1,1
+Amarillo,11/1/2015 19:11:00,Dog,6 months,Labrador Retriever Mix,Yellow,1,1
+Nala,11/7/2015 19:14:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+,9/26/2014 18:09:00,Dog,1 year,Dachshund Mix,Tan,1,1
+Winnie,10/22/2014 14:37:00,Dog,6 months,Dachshund Mix,Brown/White,0,0
+Luna,6/1/2014 17:48:00,Cat,1 year,Domestic Shorthair Mix,Black/White,1,1
+,9/12/2014 18:38:00,Cat,3 weeks,Domestic Shorthair Mix,Calico,0,0
+Tokyo,2/19/2016 14:58:00,Cat,2 years,Domestic Shorthair Mix,Brown Tabby,1,1
+Diamond,11/14/2015 13:30:00,Dog,11 months,Blue Lacy Mix,Blue/White,1,1
+,3/3/2014 16:58:00,Dog,3 months,Rat Terrier Mix,Tricolor,1,0
+Minnie,2/10/2014 12:34:00,Dog,2 years,Dachshund Longhair,Brown,1,0
+Neville,9/27/2014 12:25:00,Dog,2 years,Pit Bull Mix,Red,1,0
+Conrad,8/15/2015 11:32:00,Dog,2 years,Pit Bull Mix,Brown/White,1,1
+Shiva,7/3/2014 18:45:00,Cat,4 months,Domestic Longhair,Calico,1,1
+,8/11/2014 15:17:00,Dog,4 months,Dachshund/Chihuahua Shorthair,Red,0,0
+,9/15/2014 9:00:00,Cat,5 months,Domestic Shorthair Mix,Torbie,0,0
+Jupiter,12/16/2015 11:28:00,Cat,2 months,Domestic Shorthair Mix,Black Tabby/White,1,1
+Nero,7/29/2015 15:41:00,Dog,7 years,Chihuahua Shorthair Mix,Brown/White,1,0
+Oscar,1/23/2016 16:05:00,Cat,4 years,Domestic Shorthair Mix,Black/White,1,1
+,9/10/2015 11:35:00,Cat,3 weeks,Domestic Shorthair Mix,Tortie/Calico,0,0
+Dasher,12/6/2015 17:08:00,Dog,6 months,Border Collie Mix,Black/White,1,1
+Libby,8/8/2015 17:58:00,Dog,5 months,Labrador Retriever Mix,Black/White,0,1
+Gracie,1/13/2016 11:43:00,Dog,8 years,Maltese,White,1,0
+,7/19/2015 17:26:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+Sugar,7/6/2015 18:05:00,Cat,1 month,Domestic Shorthair Mix,Blue Tabby/White,1,1
+,2/15/2016 18:30:00,Dog,5 months,Labrador Retriever Mix,White,1,0
+Jethro,5/31/2014 13:58:00,Cat,1 month,Domestic Shorthair Mix,Brown Tabby,0,0
+,10/23/2014 9:00:00,Cat,4 months,Domestic Shorthair Mix,Blue Tabby,0,0
+Keyla,8/1/2015 11:54:00,Dog,1 year,Chihuahua Shorthair Mix,White/Tan,1,1
+Samson,8/10/2014 16:25:00,Dog,2 years,Labrador Retriever/Rottweiler,Black/Brown,1,1
+August,11/4/2013 15:50:00,Cat,11 years,Domestic Shorthair Mix,Tortie,1,0
+,6/25/2015 9:31:00,Dog,2 months,Dachshund/Manchester Terrier,Tricolor,1,1
+Herb,9/1/2015 0:00:00,Cat,2 months,Domestic Shorthair Mix,White/Black,1,0
+Stripey,10/29/2015 18:44:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,0,1
+Sallie,4/20/2015 14:41:00,Dog,1 month,Plott Hound/Labrador Retriever,Black/Brown Brindle,1,1
+Klo Dog,5/25/2015 11:26:00,Dog,7 years,Chihuahua Shorthair/Rat Terrier,White/Tan,1,0
+,5/21/2014 13:47:00,Cat,4 days,Domestic Shorthair Mix,Cream Tabby/White,0,0
+Milo,11/9/2015 13:24:00,Dog,4 years,Siberian Husky,White/Gray,1,0
+Scarlet,12/22/2015 0:00:00,Dog,2 years,Australian Cattle Dog Mix,Tan/White,1,0
+Pebbles,11/14/2015 13:26:00,Dog,1 year,Pointer Mix,White/Black,1,0
+Cairo,12/9/2015 17:05:00,Dog,2 years,Pit Bull Mix,Brown Brindle/White,1,0
+,9/3/2014 18:51:00,Cat,4 weeks,Domestic Medium Hair Mix,Brown Tabby,0,0
+Calypso,11/13/2015 11:53:00,Cat,1 year,Domestic Shorthair Mix,Black/White,0,0
+Luna,5/12/2015 17:39:00,Dog,2 years,Yorkshire Terrier/Miniature Poodle,Tan/Silver,1,1
+,10/3/2013 12:27:00,Cat,10 months,Domestic Shorthair Mix,Orange Tabby,0,0
+Diva,3/7/2015 12:50:00,Dog,4 years,German Shepherd Mix,White,1,0
+Olivia,7/16/2014 17:48:00,Cat,4 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Ashley,5/13/2015 11:51:00,Dog,6 years,Catahoula/Labrador Retriever,White/Tan,1,0
+,5/15/2015 17:47:00,Dog,9 months,Miniature Poodle Mix,Black/White,1,1
+Jaqueline,9/19/2015 14:33:00,Dog,3 years,Jack Russell Terrier/Pit Bull,Red,1,1
+Tabitha,11/23/2014 12:43:00,Cat,8 months,Domestic Shorthair Mix,Torbie,1,1
+Roxie,5/1/2014 16:12:00,Dog,10 months,Queensland Heeler/Shetland Sheepdog,Red Tick/Black,1,1
+,9/1/2015 0:00:00,Cat,1 year,Domestic Shorthair Mix,White/Cream Tabby,1,0
+Harper,10/27/2015 16:44:00,Dog,1 year,Catahoula Mix,Blue Merle,1,1
+Hanley,7/3/2015 18:50:00,Dog,1 year,Labrador Retriever Mix,Black/White,1,1
+Boomer,7/24/2014 15:02:00,Dog,3 months,Labrador Retriever Mix,Yellow,1,1
+Brownie,11/19/2013 18:30:00,Dog,6 years,Chihuahua Shorthair Mix,Chocolate/Tan,0,0
+,1/21/2014 15:20:00,Cat,1 year,Domestic Longhair Mix,Black,0,0
+Swisha,4/10/2014 10:13:00,Dog,2 years,American Pit Bull Terrier Mix,Tan/White,1,0
+,11/30/2013 18:48:00,Dog,5 years,Dachshund Longhair Mix,Tan/White,1,1
+,5/10/2015 17:16:00,Cat,12 years,Domestic Longhair Mix,Orange Tabby/White,1,0
+Dutchess,4/8/2014 12:50:00,Dog,2 years,German Shepherd Mix,Sable,1,1
+Buddy,10/18/2014 18:48:00,Dog,6 years,Labrador Retriever Mix,Black/White,1,1
+Meowser,6/27/2015 18:24:00,Cat,3 months,Domestic Shorthair Mix,Black,1,1
+Cassie,2/1/2014 11:13:00,Dog,8 months,Doberman Pinsch Mix,Tricolor,1,0
+Teddy,12/27/2013 15:49:00,Cat,1 year,Domestic Shorthair Mix,Black,1,0
+Isis,10/31/2015 15:18:00,Cat,15 years,Domestic Shorthair Mix,Black,0,0
+,10/22/2014 17:46:00,Dog,3 weeks,Pointer Mix,Chocolate/White,0,0
+Dali,11/13/2014 16:07:00,Dog,5 months,Dachshund/Jack Russell Terrier,White/Brown,1,1
+,5/14/2014 19:15:00,Dog,2 years,Miniature Poodle/Miniature Schnauzer,Black/White,1,1
+Bella,12/30/2014 9:38:00,Dog,2 years,Whippet Mix,Brown Brindle/White,1,1
+Dino,11/27/2015 14:06:00,Dog,2 years,Australian Shepherd Mix,Brown Merle/White,0,0
+,1/11/2016 14:23:00,Dog,2 years,Labrador Retriever Mix,Tan/White,1,1
+,9/12/2014 18:38:00,Cat,3 weeks,Domestic Shorthair Mix,Calico,0,0
+Emma,5/28/2015 13:14:00,Dog,1 year,Pit Bull Mix,Brown Tiger/White,1,0
+,3/21/2015 9:00:00,Cat,2 years,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Jackson,10/30/2013 15:14:00,Cat,4 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Marco,4/8/2014 15:29:00,Dog,4 years,Chihuahua Shorthair Mix,White/Brown,1,0
+,6/24/2014 19:15:00,Cat,3 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Byron,5/27/2014 8:21:00,Cat,2 months,Domestic Shorthair Mix,Black,0,1
+Oreo,2/2/2016 15:58:00,Dog,1 year,Rat Terrier Mix,White/Black,1,0
+Pia,5/30/2014 16:54:00,Dog,2 months,English Pointer Mix,Brown/White,1,1
+Bleu,11/4/2013 17:51:00,Dog,1 year,Miniature Schnauzer/Yorkshire Terrier,Black/White,1,1
+,7/15/2014 17:26:00,Dog,3 years,Cairn Terrier Mix,Buff,1,1
+Midnight,1/20/2014 18:40:00,Dog,9 years,Labrador Retriever/Pit Bull,Black,1,0
+Julia,9/7/2015 15:05:00,Cat,2 years,Domestic Shorthair Mix,White/Black,1,0
+,12/2/2013 14:10:00,Dog,5 years,Great Dane,Black/White,1,0
+Rello,11/29/2015 18:11:00,Dog,2 years,Chihuahua Shorthair Mix,Black/White,0,0
+Bode,5/1/2015 11:04:00,Dog,2 years,Chesa Bay Retr,Brown,1,0
+Jake,11/3/2015 16:40:00,Dog,7 years,German Shepherd,Brown/Black,1,0
+,7/28/2014 9:00:00,Cat,1 year,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Rebecca,11/21/2015 15:21:00,Cat,6 years,Domestic Shorthair Mix,Black/White,1,1
+Buddy,7/12/2014 20:04:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+Anita,5/10/2015 18:38:00,Dog,1 year,Chihuahua Shorthair Mix,Tan/Black,1,0
+,11/14/2013 17:14:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+Daisy,11/8/2014 14:41:00,Dog,6 years,Plott Hound Mix,Brown Brindle,1,0
+,5/26/2015 16:02:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Kiki,6/24/2015 15:25:00,Dog,2 years,Chihuahua Shorthair Mix,Brown/Black,1,1
+Jerrid,8/19/2014 18:25:00,Cat,7 years,Siamese Mix,Flame Point,1,1
+Vidalia,12/6/2015 12:41:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Simba,11/19/2015 18:45:00,Dog,3 years,Chow Chow Mix,Red,1,1
+,4/22/2014 15:35:00,Cat,2 years,Domestic Shorthair Mix,Black,0,0
+,12/1/2013 17:58:00,Dog,7 years,English Pointer,Liver/White,1,1
+,5/24/2015 17:25:00,Cat,1 month,Domestic Shorthair Mix,White/Blue Tabby,0,0
+June,11/9/2013 19:21:00,Dog,2 years,Pit Bull Mix,Brown/White,1,0
+Earlene,8/5/2015 0:00:00,Dog,5 months,Boxer Mix,Black/White,0,0
+Vader,6/2/2015 11:56:00,Dog,4 years,Basset Hound/Labrador Retriever,Black/White,1,0
+Brownie,3/6/2014 17:13:00,Dog,2 years,Labrador Retriever Mix,Buff,1,0
+Little Missy,2/7/2016 0:00:00,Dog,7 years,Airedale Terrier Mix,Tricolor,1,0
+Buddy,7/6/2014 12:46:00,Dog,1 year,Labrador Retriever/Chow Chow,Brown,1,1
+,12/11/2013 12:49:00,Cat,1 month,Domestic Shorthair Mix,Orange Tabby/White,1,0
+Kodiak,1/31/2015 13:33:00,Dog,1 month,Beagle/German Shepherd,Black/Brown,1,1
+Bosco,9/20/2015 14:50:00,Cat,2 months,Manx Mix,White/Black,1,1
+,10/6/2015 9:00:00,Cat,3 years,Domestic Shorthair Mix,Blue,0,0
+Daisy,7/16/2014 13:48:00,Dog,4 years,Chihuahua Shorthair/Rat Terrier,Tan/White,1,0
+Priscilla,10/19/2013 12:58:00,Dog,1 year,Pit Bull Mix,Black/White,1,1
+Stella,8/2/2015 18:49:00,Dog,2 years,Flat Coat Retriever Mix,Black/White,1,1
+Dharma,5/28/2015 15:25:00,Dog,10 years,Cocker Spaniel,Buff,1,0
+Taco,10/18/2014 16:55:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Pebbles,4/11/2015 18:01:00,Dog,10 years,Chihuahua Shorthair Mix,Tan,1,1
+Arwen,7/19/2015 14:37:00,Cat,2 years,Domestic Longhair Mix,Brown Tabby/White,1,1
+Rainey,7/21/2014 11:09:00,Dog,7 years,Rat Terrier Mix,White/Black,1,0
+,8/25/2014 17:12:00,Dog,1 year,Border Terrier/Chihuahua Shorthair,Tan/Black,1,1
+Tank,9/17/2015 13:48:00,Dog,5 years,Pit Bull Mix,Brown Brindle/White,1,0
+Kiki,3/23/2015 17:50:00,Dog,6 years,Chihuahua Shorthair Mix,Black/Gray,1,0
+,8/22/2015 15:44:00,Cat,1 week,Domestic Shorthair Mix,Brown Tabby,0,0
+,7/17/2014 18:06:00,Dog,7 years,Pit Bull Mix,Tan/White,1,0
+Kato,10/2/2013 17:43:00,Dog,1 year,Chihuahua Longhair Mix,Black,1,1
+Jasper,7/10/2014 12:48:00,Dog,1 year,Jack Russell Terrier/Dachshund,White/Brown,1,1
+,5/3/2015 17:24:00,Cat,2 weeks,Domestic Shorthair Mix,Orange Tabby,0,0
+,12/24/2013 15:03:00,Cat,1 year,Domestic Shorthair Mix,Orange Tabby,0,0
+Roger,12/3/2014 14:24:00,Dog,5 years,German Shepherd,Black/Brown,1,0
+Roxi,8/11/2014 11:12:00,Dog,2 years,Rottweiler Mix,Black/Tan,1,0
+Hedwig,3/18/2014 17:04:00,Dog,10 months,Siberian Husky Mix,White/Cream,1,1
+,5/25/2015 14:15:00,Cat,3 months,Domestic Shorthair Mix,Black,0,0
+Apollo,2/14/2014 18:59:00,Dog,9 months,Cardigan Welsh Corgi/Cardigan Welsh Corgi,Fawn/White,1,1
+,9/21/2015 15:57:00,Cat,1 month,Domestic Shorthair Mix,Black/White,0,0
+,4/25/2014 15:17:00,Cat,0 years,Domestic Shorthair Mix,Blue,0,0
+,11/10/2015 9:00:00,Cat,5 years,Domestic Shorthair Mix,Calico,1,0
+,2/20/2016 21:16:00,Dog,8 months,Chihuahua Shorthair Mix,Chocolate/White,1,1
+,4/30/2015 14:43:00,Dog,1 year,Cairn Terrier Mix,Cream,0,0
+Ruth,10/14/2015 10:12:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby,1,1
+Pumpkin,10/8/2013 17:23:00,Cat,3 months,Domestic Shorthair,Black/White,1,0
+Coco,4/6/2015 15:37:00,Dog,14 years,Chihuahua Shorthair Mix,Chocolate/White,0,0
+Sam,3/16/2014 10:48:00,Dog,7 years,Labrador Retriever Mix,Chocolate,1,0
+Newton,1/10/2016 11:36:00,Dog,2 years,Shih Tzu,Gray/White,1,1
+Lizzie,11/5/2015 0:00:00,Dog,6 months,Plott Hound Mix,Brown Brindle,1,0
+Orion,1/13/2014 15:18:00,Dog,11 months,Australian Shepherd Mix,Tan/White,1,1
+Chewy,2/5/2015 14:28:00,Dog,3 years,Chihuahua Shorthair Mix,Tan/White,1,1
+Hailey,11/7/2014 13:36:00,Cat,2 months,Domestic Longhair Mix,Black/White,0,0
+Jimmy,4/27/2014 15:11:00,Dog,1 year,Labrador Retriever/Border Collie,Black/White,1,1
+,9/29/2014 18:28:00,Cat,4 weeks,Siamese Mix,Blue Point,0,0
+Machete,3/28/2015 19:25:00,Dog,4 years,Chihuahua Shorthair Mix,White/Brown,1,0
+Cheddar,11/27/2013 14:36:00,Cat,8 years,Domestic Medium Hair Mix,Orange Tabby,1,1
+Amelia,10/16/2013 17:01:00,Cat,3 months,Domestic Shorthair Mix,Calico,1,1
+Jelly Bean,11/9/2014 14:47:00,Dog,2 months,Australian Cattle Dog Mix,Brown/White,1,1
+,8/15/2014 12:54:00,Cat,4 months,Domestic Shorthair Mix,Tortie,1,1
+,3/21/2014 17:10:00,Dog,2 years,Labrador Retriever/Great Dane,Tan/Black,0,0
+Rascal,7/17/2014 17:50:00,Dog,6 years,Dachshund Mix,Brown,1,0
+Layla,8/2/2015 13:17:00,Dog,11 months,Boxer Mix,Brown Brindle/White,1,0
+,10/8/2015 16:26:00,Dog,1 year,Labrador Retriever Mix,Tan/White,1,0
+,11/23/2013 16:00:00,Dog,4 years,Shih Tzu/Miniature Poodle,Apricot/White,1,0
+Mundy,9/13/2014 14:10:00,Cat,2 months,Domestic Medium Hair Mix,Blue/White,1,1
+,11/23/2015 0:00:00,Dog,2 years,Pit Bull Mix,Red,1,0
+,11/25/2013 17:07:00,Dog,2 months,Australian Cattle Dog Mix,Red Merle/Black,1,1
+Barnaby,1/6/2015 18:37:00,Cat,6 months,Domestic Shorthair Mix,Black,1,1
+Noah,8/16/2015 17:38:00,Cat,8 years,Domestic Shorthair Mix,Black/White,1,1
+Jesse,2/13/2014 17:36:00,Cat,3 years,Domestic Shorthair Mix,Brown Tabby,1,0
+Leo,8/10/2014 17:25:00,Dog,2 years,Chihuahua Shorthair Mix,Brown/White,1,1
+,11/7/2014 17:15:00,Dog,2 months,Australian Cattle Dog Mix,White/Brown,0,0
+,9/21/2014 13:21:00,Cat,3 weeks,Domestic Shorthair Mix,Tortie,0,0
+Madison,6/5/2015 14:31:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Sheldon,6/30/2015 7:01:00,Dog,4 years,German Shepherd Mix,Brown,1,1
+Chris,12/16/2013 14:57:00,Cat,5 years,Domestic Shorthair Mix,Brown Tabby/White,1,0
+Jillian,11/22/2015 13:47:00,Dog,2 years,Pointer Mix,Chocolate/White,1,1
+,10/3/2013 15:33:00,Cat,6 months,Domestic Medium Hair Mix,Calico,0,0
+,5/9/2014 19:30:00,Dog,2 years,Miniature Poodle Mix,Black/Gray,1,0
+Lizzie,9/1/2014 10:39:00,Dog,10 years,Collie Smooth/Chow Chow,Sable,1,0
+,12/12/2014 9:00:00,Cat,6 months,Domestic Shorthair Mix,Black/White,0,0
+Socks,4/1/2014 12:19:00,Cat,2 months,Domestic Shorthair Mix,Calico,0,0
+Captain,2/21/2015 17:30:00,Dog,6 months,Cocker Spaniel Mix,Sable,1,1
+Pablito,1/25/2014 18:34:00,Dog,8 years,Chihuahua Shorthair Mix,Tricolor,1,0
+,11/12/2015 12:36:00,Dog,6 months,Labrador Retriever Mix,Buff,1,1
+,8/14/2014 17:23:00,Cat,3 months,Siamese Mix,Seal Point,0,0
+Kimchi,1/1/2014 18:45:00,Dog,1 year,Rottweiler/Labrador Retriever,Black/Tan,1,1
+Bella,3/16/2015 17:38:00,Dog,1 year,Chihuahua Shorthair Mix,Brown/Black,1,1
+Ares,5/19/2014 18:05:00,Dog,2 months,Boxer Mix,Tricolor,1,1
+,5/16/2014 18:37:00,Cat,2 weeks,Domestic Shorthair Mix,Blue Tabby,0,0
+,1/25/2014 18:09:00,Dog,2 years,Chihuahua Shorthair Mix,Tan,1,1
+,9/8/2014 11:53:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+Sammy,9/2/2014 11:23:00,Cat,9 months,Domestic Shorthair Mix,White/Brown Tabby,1,0
+,12/23/2014 14:58:00,Dog,4 years,Rat Terrier Mix,Black/White,1,0
+Challino,11/12/2014 18:27:00,Dog,4 months,German Shepherd/Siberian Husky,Red/White,1,1
+,7/6/2014 18:33:00,Cat,3 days,Domestic Shorthair Mix,White,0,0
+Romeo,5/30/2015 15:30:00,Dog,6 years,Dachshund,Blue Merle/White,0,0
+Dumpling,1/11/2014 17:42:00,Dog,2 months,Border Collie/Labrador Retriever,Black/White,1,1
+,4/3/2014 15:19:00,Cat,8 months,Domestic Shorthair Mix,Blue Tabby,0,0
+Carl,8/6/2014 14:23:00,Cat,1 month,Domestic Shorthair Mix,Black/White,0,0
+,11/26/2013 14:55:00,Cat,4 months,Domestic Shorthair Mix,Black,0,0
+Belle,7/31/2015 12:56:00,Cat,2 months,Domestic Shorthair Mix,Torbie,0,1
+Lil' Mama,5/12/2014 14:05:00,Dog,2 years,Pit Bull Mix,Fawn,0,0
+,4/4/2014 15:30:00,Dog,4 months,Collie Smooth/Labrador Retriever,Tricolor,1,1
+,2/8/2016 19:23:00,Cat,1 year,Domestic Shorthair Mix,Brown Tabby,0,0
+,7/16/2015 11:09:00,Cat,3 months,Siamese Mix,Lynx Point/White,1,1
+,7/8/2014 14:48:00,Cat,2 months,Domestic Shorthair Mix,Black/White,0,0
+Celeste,12/24/2015 10:12:00,Cat,4 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+Jack,6/14/2015 12:01:00,Dog,5 years,Plott Hound/Rhod Ridgeback,Brown Brindle,1,1
+Buffy,1/23/2014 14:06:00,Dog,2 years,Pit Bull Mix,Fawn/White,1,0
+,7/31/2014 13:22:00,Cat,2 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Bizzy,11/18/2014 11:32:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+,11/15/2015 18:01:00,Dog,10 months,Chihuahua Shorthair Mix,Tan/White,1,1
+,6/17/2014 13:27:00,Dog,2 years,Pointer/Labrador Retriever,Black/White,1,0
+Molina,11/9/2015 17:02:00,Dog,10 months,Anatol Shepherd/Great Pyrenees,White,1,1
+,7/25/2014 16:48:00,Cat,4 weeks,Domestic Shorthair Mix,Blue,0,0
+Simon,6/8/2014 16:49:00,Dog,1 year,Anatol Shepherd,Fawn/Black,1,0
+Sparkles,1/19/2015 17:53:00,Cat,7 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Laurel,2/13/2015 14:49:00,Dog,2 years,Pit Bull Mix,Brown/White,1,1
+Mya,1/2/2015 16:50:00,Dog,7 years,Great Dane,Black/White,1,0
+Firefly,7/22/2015 18:37:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Sebastian,8/24/2015 18:23:00,Cat,12 years,Domestic Shorthair Mix,Black/White,1,0
+Aimee,9/2/2014 14:51:00,Dog,3 years,Australian Cattle Dog Mix,Tricolor,0,0
+Lily,12/19/2014 11:23:00,Cat,3 months,Domestic Shorthair Mix,Black/White,1,0
+Lola,10/23/2015 18:07:00,Dog,2 years,Chinese Sharpei/Australian Cattle Dog,Red Tick/White,1,1
+Sadie,4/22/2014 16:02:00,Dog,12 years,Labrador Retriever Mix,Yellow,0,0
+Pi,3/16/2015 12:10:00,Dog,1 year,Flat Coat Retriever Mix,Black,1,1
+,8/29/2014 16:56:00,Dog,3 years,Labrador Retriever Mix,Yellow,1,0
+Qwayzar,5/25/2014 17:32:00,Cat,1 month,Domestic Shorthair Mix,Calico,1,1
+,3/6/2015 9:54:00,Dog,6 days,Labrador Retriever Mix,White,0,0
+Clover,11/22/2013 17:54:00,Dog,9 months,Rat Terrier Mix,Tricolor,1,0
+Friskie,11/23/2014 18:23:00,Cat,2 months,Domestic Longhair Mix,Black/White,1,1
+Spartacus,6/10/2015 17:23:00,Dog,2 years,Akita/Pit Bull,Tan/White,1,0
+Leroy,12/28/2015 17:33:00,Dog,7 years,American Bulldog Mix,White,1,0
+Severus,3/10/2014 16:24:00,Dog,4 months,Labrador Retriever Mix,Blue,1,0
+Lennon,5/26/2015 15:52:00,Cat,10 years,Domestic Shorthair Mix,Orange Tabby,1,1
+Jezebel,2/27/2014 16:04:00,Dog,5 years,Chihuahua Shorthair Mix,Tan,1,0
+Lucy,3/1/2015 16:13:00,Dog,2 years,Pointer/Labrador Retriever,Chocolate/White,1,1
+Cody,9/20/2014 15:37:00,Dog,5 years,Chihuahua Shorthair Mix,Tan/White,1,1
+Nelson,10/15/2014 17:21:00,Cat,5 months,Siamese Mix,Flame Point,1,1
+,4/1/2015 18:44:00,Cat,1 year,Domestic Shorthair Mix,Black/White,1,1
+Nico,11/13/2015 12:59:00,Dog,1 year,Labrador Retriever,Buff/Tan,0,0
+Watson,12/18/2014 13:35:00,Cat,4 months,Domestic Medium Hair Mix,Black,1,0
+Daisy,2/13/2014 17:05:00,Dog,2 years,Chihuahua Shorthair/Rat Terrier,White/Tan,1,0
+Oso,4/17/2014 17:09:00,Dog,3 years,Rottweiler Mix,Black/Tan,0,0
+,4/24/2015 17:47:00,Cat,4 weeks,Domestic Shorthair,Blue,0,0
+,5/19/2015 18:49:00,Cat,3 weeks,Domestic Shorthair Mix,Black/White,0,0
+,6/17/2015 12:27:00,Cat,3 weeks,Domestic Shorthair Mix,Tortie,0,0
+Lizzy,7/11/2015 13:49:00,Dog,2 years,Labrador Retriever,Black,1,0
+Bobby,11/8/2015 19:10:00,Dog,1 year,Boxer Mix,Brown/White,1,1
+,8/3/2014 17:47:00,Cat,2 weeks,Domestic Shorthair Mix,Blue Tabby,0,0
+,10/10/2014 14:05:00,Dog,2 years,Jack Russell Terrier Mix,White/Tan,1,1
+Blaze,10/26/2015 12:43:00,Dog,9 months,Pit Bull/Dogue De Bordeaux,Red/White,0,0
+Roman,1/26/2014 15:19:00,Dog,3 years,Labrador Retriever/Chow Chow,Brown,1,1
+Rasberry,6/26/2015 9:42:00,Cat,1 month,Domestic Shorthair Mix,Tortie,0,0
+Tucker,2/8/2015 14:55:00,Dog,2 years,Bernese Mountain Dog/Rottweiler,Tricolor,1,1
+,1/26/2016 19:01:00,Cat,2 years,Domestic Shorthair Mix,Brown Tabby,1,0
+,7/4/2014 18:42:00,Dog,4 months,Plott Hound Mix,Brown Brindle/Red Tick,1,0
+Houston,10/16/2015 17:24:00,Dog,3 years,English Bulldog,Brown Brindle,0,0
+Captain,12/5/2014 17:10:00,Dog,1 year,Pit Bull Mix,Brown/White,1,0
+Kerby,9/25/2014 18:48:00,Cat,1 month,Domestic Medium Hair Mix,Brown Tabby/White,0,0
+Tulip,5/17/2014 13:44:00,Dog,1 year,Chihuahua Shorthair Mix,White/Brown,1,1
+,1/7/2016 12:44:00,Dog,2 months,Labrador Retriever Mix,Black/Tan,1,0
+Tiny Tinker,5/11/2015 18:38:00,Dog,9 years,Chihuahua Shorthair,Brown,1,0
+Nigel,5/31/2015 18:53:00,Dog,2 years,Pit Bull Mix,Brown,1,1
+Sadie,11/21/2015 11:17:00,Dog,6 months,Pointer Mix,White/Blue,1,1
+,3/3/2015 13:14:00,Dog,3 months,Chihuahua Longhair/Italian Greyhound,Tricolor,1,1
+Pippin,7/7/2014 16:52:00,Dog,1 month,Labrador Retriever/Blue Lacy,Chocolate/White,1,1
+Calliope,11/24/2015 0:00:00,Dog,1 year,Yorkshire Terrier Mix,Black/Tan,0,0
+Petra,5/16/2014 14:58:00,Dog,2 years,Pit Bull Mix,Blue/White,1,1
+Judy,3/22/2014 16:23:00,Dog,3 years,Labrador Retriever Mix,Black/White,1,0
+Cloud,10/10/2015 14:30:00,Cat,2 months,Siamese Mix,Lilac Point,0,1
+Grace,3/9/2014 17:06:00,Dog,2 years,American Staffordshire Terrier Mix,Blue/White,1,0
+Kief,10/24/2013 12:31:00,Dog,2 years,Dachshund/Catahoula,Brown Brindle/White,1,0
+,8/25/2014 17:01:00,Dog,2 months,Dachshund Wirehair Mix,Brown/Black,1,1
+Callie,7/14/2014 18:08:00,Cat,12 years,Domestic Longhair Mix,Tortie,1,0
+,1/30/2014 13:14:00,Cat,2 years,Domestic Shorthair Mix,Blue,1,0
+Asha,1/27/2015 14:06:00,Dog,8 months,Labrador Retriever Mix,Black,0,0
+Eleonora,1/12/2016 9:30:00,Cat,10 years,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Oliver,7/7/2014 15:39:00,Cat,2 months,Domestic Medium Hair Mix,Orange Tabby,1,1
+Shaka,6/7/2014 17:09:00,Dog,3 months,Chihuahua Shorthair Mix,Buff/White,1,1
+Riku,12/18/2013 14:04:00,Dog,1 year,Blue Lacy/Pit Bull,Blue/White,1,0
+,6/18/2014 9:00:00,Cat,2 years,Domestic Shorthair Mix,Tortie,0,0
+Dennis,11/29/2015 19:00:00,Cat,2 months,Domestic Shorthair Mix,Blue Tabby,1,1
+Nala,9/13/2014 18:35:00,Cat,3 months,Siamese Mix,Lilac Point,1,1
+,3/25/2015 17:17:00,Dog,7 years,Miniature Poodle Mix,White,1,1
+Pequina,3/7/2015 15:46:00,Dog,2 years,Dachshund Mix,Brown,1,1
+Jax,10/15/2014 18:25:00,Dog,4 months,Boxer Mix,Brown Brindle/White,0,0
+Tibbers,12/1/2015 17:24:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Ranger,9/5/2015 12:46:00,Cat,3 months,Domestic Shorthair Mix,White/Orange Tabby,1,1
+Nala,12/20/2013 12:38:00,Cat,2 years,Exotic Shorthair Mix,White/Orange Tabby,1,0
+Marcia,12/8/2013 19:11:00,Cat,6 months,Domestic Shorthair Mix,Black/White,1,1
+,4/8/2015 15:41:00,Cat,4 days,Domestic Shorthair Mix,Torbie,0,0
+,7/12/2014 17:18:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Bella,11/11/2014 17:41:00,Cat,5 months,Siamese Mix,Tortie Point,1,1
+Sammy,10/8/2015 13:53:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,0
+Emma,9/24/2014 15:00:00,Cat,1 month,Domestic Shorthair Mix,Brown Tabby/White,0,0
+July,11/10/2013 18:25:00,Dog,1 year,Pit Bull Mix,Black/White,1,0
+,10/29/2013 11:28:00,Dog,1 month,Australian Cattle Dog Mix,Brown/Black,0,0
+,11/17/2013 18:28:00,Dog,3 years,Chihuahua Shorthair Mix,Black/Tan,1,0
+Mason,6/3/2014 11:47:00,Dog,3 years,Labrador Retriever/Chinese Sharpei,Black,1,1
+Trousers,8/5/2014 16:09:00,Dog,6 years,Basset Hound,Tricolor,0,0
+Cassius,7/26/2015 14:24:00,Dog,8 months,Pit Bull Mix,White/Blue,0,1
+,9/17/2014 14:11:00,Cat,4 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Popcorn,3/11/2014 12:55:00,Dog,3 years,Cocker Spaniel Mix,Yellow,1,0
+,12/13/2013 11:41:00,Dog,4 weeks,Chihuahua Shorthair Mix,Tricolor,0,0
+Ellie,1/3/2016 17:08:00,Cat,2 months,Domestic Shorthair Mix,Torbie,1,0
+,10/7/2015 8:47:00,Dog,2 months,Australian Cattle Dog Mix,Buff/White,0,0
+Bino,9/8/2015 18:00:00,Dog,1 year,Dachshund/Chihuahua Shorthair,Black,0,0
+Marley,11/24/2015 16:51:00,Dog,5 years,Cocker Spaniel Mix,Black,1,0
+Lucy,12/26/2015 12:49:00,Dog,7 years,Blue Lacy/Collie Smooth,Tricolor,1,0
+,6/29/2015 17:44:00,Cat,2 months,Domestic Longhair Mix,Blue,1,1
+Zeus,11/11/2015 18:55:00,Dog,3 years,Pit Bull Mix,Black/White,1,0
+,10/11/2014 17:05:00,Cat,1 month,Domestic Shorthair Mix,Torbie,0,1
+Haelo,10/5/2015 17:41:00,Dog,6 years,Miniature Poodle Mix,Buff,1,1
+Mary,4/3/2015 16:53:00,Dog,2 months,Labrador Retriever Mix,Chocolate/White,0,0
+Dorchester,7/4/2015 8:56:00,Dog,2 years,Pit Bull Mix,White/Brown,1,0
+,10/10/2015 17:53:00,Cat,2 weeks,Domestic Shorthair Mix,Orange Tabby/White,0,0
+,1/16/2015 9:00:00,Cat,1 year,Domestic Shorthair Mix,Black/White,0,0
+Leia,2/1/2015 12:29:00,Dog,2 years,Black/Tan Hound Mix,Black/Tan,1,0
+Morris,7/13/2014 19:37:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+Arthur,10/19/2015 20:13:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby,1,1
+,12/3/2013 18:11:00,Cat,8 years,Siamese Mix,Lynx Point,1,0
+,12/3/2015 16:13:00,Dog,1 week,Labrador Retriever Mix,White,0,0
+Squirt,7/15/2015 13:14:00,Dog,12 years,Chihuahua Shorthair Mix,White,1,0
+Scarlet,3/25/2015 13:24:00,Dog,1 year,Pit Bull Mix,Chocolate/White,1,0
+Maui,6/6/2015 16:26:00,Dog,11 years,Norfolk Terrier/Border Terrier,Cream,1,0
+,9/8/2014 16:41:00,Cat,2 weeks,Domestic Shorthair Mix,Blue Tabby/White,0,0
+Tyrone,4/10/2014 11:22:00,Dog,2 years,Border Collie Mix,Black/White,1,0
+Sam,1/6/2015 16:54:00,Dog,2 years,German Shepherd Mix,Black/Tan,1,0
+Chubs,11/5/2015 14:23:00,Dog,2 years,Chihuahua Shorthair Mix,Black,1,1
+Chico,6/23/2015 11:08:00,Dog,3 years,Chihuahua Shorthair Mix,Brown,1,0
+,6/30/2015 12:17:00,Cat,5 days,Domestic Shorthair Mix,Black,0,0
+,5/17/2015 19:03:00,Cat,3 weeks,Domestic Shorthair Mix,White/Brown Tabby,0,0
+,3/14/2014 17:56:00,Dog,10 months,Jack Russell Terrier Mix,Tricolor,1,1
+Leia,1/20/2014 14:33:00,Cat,7 years,Domestic Shorthair Mix,Brown Tabby,1,0
+Duke,7/4/2014 17:55:00,Dog,7 years,Pit Bull Mix,Red/White,1,0
+Apollo,12/26/2015 15:48:00,Dog,3 years,Siberian Husky,Black/White,0,0
+Lucy,11/4/2013 15:40:00,Dog,2 years,Scottish Terrier/Cairn Terrier,Black,1,0
+,12/8/2015 19:24:00,Cat,2 years,Domestic Medium Hair Mix,Blue Tabby,1,0
+Hilde,12/13/2015 14:06:00,Dog,1 year,Labrador Retriever Mix,Red,1,0
+Hazel,12/13/2015 16:21:00,Cat,5 months,Domestic Shorthair Mix,Calico,1,1
+,10/20/2014 9:00:00,Cat,8 months,Domestic Shorthair Mix,Black,0,0
+Tucker,12/18/2014 14:29:00,Cat,3 months,Domestic Longhair Mix,Brown Tabby,0,1
+Nugget,3/27/2015 14:39:00,Dog,1 year,Chihuahua Shorthair Mix,Tan,1,1
+Tori,11/9/2013 17:03:00,Cat,4 months,Domestic Medium Hair Mix,Tortie/White,1,1
+,2/12/2014 15:40:00,Cat,1 year,Domestic Shorthair Mix,Cream Tabby,0,0
+Brisket,11/14/2014 16:24:00,Dog,1 year,Pit Bull Mix,Tan/White,1,0
+Sleepy,8/21/2015 15:43:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+Shadow,12/1/2013 19:00:00,Dog,8 months,Labrador Retriever Mix,Black,1,1
+,8/7/2015 9:00:00,Cat,1 year,Domestic Shorthair Mix,Calico,0,0
+Chico,11/12/2015 18:52:00,Dog,5 years,Chihuahua Longhair Mix,Cream,1,0
+,9/4/2015 17:57:00,Dog,4 weeks,Chihuahua Shorthair Mix,White,0,0
+Lyla,6/2/2014 16:54:00,Dog,3 years,Labrador Retriever Mix,Yellow,1,0
+Annie,11/5/2015 14:33:00,Dog,3 years,Pit Bull Mix,Black/White,1,1
+Mew,1/26/2015 17:48:00,Dog,2 months,Border Collie Mix,Tricolor,1,1
+Sven,6/24/2015 15:14:00,Dog,3 months,Pit Bull Mix,White/Brown,0,0
+Molly,4/9/2015 15:36:00,Dog,10 years,Yorkshire Terrier Mix,Black/Tricolor,0,0
+Cujo,1/26/2016 17:34:00,Dog,5 years,American Bulldog Mix,Tan,1,0
+,11/11/2015 11:39:00,Cat,4 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Kane,3/22/2015 15:23:00,Dog,7 years,Boxer,Brown/White,1,0
+Sparkles,1/22/2015 14:27:00,Dog,1 year,Miniature Poodle,Apricot,1,0
+Cameron,8/16/2015 18:56:00,Cat,3 months,Domestic Shorthair Mix,Orange Tabby,0,1
+Riley,3/18/2015 14:23:00,Cat,4 years,Domestic Shorthair Mix,Black/White,1,0
+Ellie,2/26/2015 15:22:00,Dog,3 years,Jack Russell Terrier Mix,White/Brown,0,0
+Dusty,3/8/2014 17:42:00,Dog,1 month,Chihuahua Shorthair Mix,Brown/Black,1,1
+,4/27/2015 13:36:00,Cat,2 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+,9/12/2015 14:28:00,Cat,2 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+,7/21/2015 12:58:00,Cat,6 days,Domestic Shorthair Mix,Brown Tabby,0,0
+Riley,3/1/2015 11:04:00,Dog,1 year,German Shepherd Mix,Tan/Black,1,0
+,10/21/2013 11:39:00,Cat,4 weeks,Domestic Shorthair Mix,Calico,0,0
+Sylvia,10/2/2013 13:50:00,Cat,8 years,Russian Blue Mix,Blue,1,0
+Sunny,4/15/2014 16:25:00,Cat,1 month,Domestic Shorthair Mix,Tortie/White,0,0
+Axel,2/16/2016 11:16:00,Dog,10 years,Doberman Pinsch,Black/Tan,1,0
+Curly,11/17/2015 18:41:00,Cat,4 months,Devon Rex Mix,Cream,1,0
+Z,6/2/2015 17:55:00,Dog,3 years,Treeing Walker Coonhound Mix,Tricolor,1,0
+Ollie,2/11/2015 17:16:00,Dog,2 years,Australian Cattle Dog/Labrador Retriever,Black,0,0
+Kitty,1/13/2014 15:52:00,Dog,8 years,Australian Cattle Dog Mix,Sable,1,0
+Chloe,3/5/2014 18:40:00,Dog,3 years,Yorkshire Terrier/Maltese,White/Gray,1,1
+Jake,4/20/2015 18:48:00,Dog,9 months,Rhod Ridgeback/Labrador Retriever,Red/Tan,1,1
+Tom,10/30/2013 14:03:00,Cat,3 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+,4/22/2015 16:20:00,Dog,9 years,Australian Cattle Dog/Chinese Sharpei,Tan/Brown,0,0
+Lucas,11/8/2014 16:21:00,Dog,1 year,Labrador Retriever/Plott Hound,Brown Brindle,1,1
+Alice,1/21/2014 16:02:00,Cat,4 months,Domestic Shorthair Mix,Orange Tabby,1,1
+,5/17/2014 11:10:00,Cat,4 years,Domestic Shorthair Mix,Orange Tabby,0,0
+Layla,5/19/2015 18:06:00,Dog,2 years,Chihuahua Shorthair Mix,White/Tan,1,0
+,6/7/2014 12:53:00,Dog,2 weeks,Pit Bull Mix,Brown/White,0,0
+Peanut,11/24/2014 18:10:00,Cat,2 months,Domestic Shorthair Mix,Cream Tabby,1,1
+Hiddles,12/22/2014 16:29:00,Cat,10 years,Domestic Medium Hair Mix,Orange Tabby/White,1,1
+Star,10/2/2013 18:00:00,Cat,2 months,Domestic Shorthair Mix,Black,0,0
+Wesley,7/21/2014 14:57:00,Dog,3 years,Chihuahua Shorthair Mix,White/Tricolor,1,0
+Boo,12/4/2014 12:37:00,Cat,6 years,Domestic Shorthair Mix,White/Cream Tabby,1,0
+Cookie,4/16/2014 12:51:00,Dog,7 years,German Shepherd/Collie Rough,Brown/Black,1,0
+Mia,6/4/2015 10:56:00,Cat,2 months,Domestic Shorthair Mix,Calico,1,1
+Gecko,10/9/2013 13:15:00,Cat,4 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Gabe,11/30/2015 13:58:00,Dog,5 years,Labrador Retriever Mix,Brown,1,0
+Tex,11/8/2014 17:32:00,Dog,6 years,Chihuahua Shorthair Mix,Black/White,1,0
+,10/24/2013 18:52:00,Cat,8 years,Domestic Medium Hair Mix,Black/White,1,0
+Jeff,12/11/2014 17:07:00,Dog,2 years,Labrador Retriever/Black Mouth Cur,Tan/White,1,0
+,10/27/2015 13:38:00,Cat,2 months,Snowshoe Mix,Lynx Point,1,1
+,5/25/2015 16:52:00,Dog,4 months,Chinese Sharpei/Airedale Terrier,Red,1,1
+,8/2/2014 9:48:00,Cat,1 year,Domestic Shorthair Mix,Black/White,0,0
+,1/13/2016 17:16:00,Dog,2 months,Dachshund/Chihuahua Shorthair,Black,1,1
+Bob,12/27/2013 15:12:00,Cat,5 years,Domestic Shorthair Mix,Brown Tabby/White,1,1
+,5/27/2015 12:19:00,Cat,2 months,Domestic Shorthair Mix,Black/White,1,0
+Whitey,6/29/2015 18:39:00,Cat,3 years,Domestic Shorthair Mix,White/Black,1,0
+Pancho Wolf,6/25/2015 18:11:00,Dog,3 years,Cardigan Welsh Corgi Mix,Tricolor,1,0
+,12/22/2015 13:04:00,Dog,3 years,Chihuahua Shorthair Mix,Tan,1,1
+Gwen,6/15/2014 12:35:00,Cat,1 month,Domestic Shorthair Mix,Brown Tabby,0,0
+June,10/19/2013 17:04:00,Dog,2 months,Chihuahua Shorthair Mix,Black,1,1
+Smudge,12/19/2015 18:39:00,Cat,2 years,Domestic Shorthair Mix,White,1,1
+Diego,12/2/2015 15:59:00,Cat,4 years,Domestic Shorthair Mix,Blue/White,1,0
+Logan,7/1/2015 9:38:00,Cat,3 weeks,Snowshoe Mix,Seal Point,0,0
+Windsor,2/19/2015 18:07:00,Dog,7 years,Harrier,Brown/Tricolor,1,1
+Libby,7/17/2015 14:27:00,Cat,2 months,Domestic Longhair Mix,Tortie,0,0
+Snowflake,1/14/2014 17:48:00,Dog,4 years,Miniature Poodle/Dachshund,White/White,1,1
+Tony,10/7/2014 16:23:00,Cat,2 months,Domestic Medium Hair Mix,Brown Tabby/White,1,0
+,11/16/2015 18:57:00,Cat,2 years,Domestic Shorthair Mix,Tortie,0,0
+,8/14/2015 13:21:00,Dog,1 month,Australian Kelpie Mix,Black,0,0
+Collaway,6/3/2014 18:26:00,Cat,3 years,Domestic Shorthair Mix,Black,1,1
+Khloe,6/28/2014 13:05:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby,1,1
+,10/26/2013 16:41:00,Cat,4 weeks,Domestic Shorthair Mix,Orange Tabby,0,0
+,9/17/2015 9:28:00,Dog,1 month,German Shepherd Mix,Red,0,0
+Eula,2/7/2016 12:42:00,Dog,5 months,Labrador Retriever Mix,Black/White,1,0
+Lorelai,7/13/2014 17:01:00,Cat,2 months,Domestic Shorthair Mix,Tortie,1,1
+,7/11/2014 16:52:00,Cat,1 month,Domestic Shorthair Mix,Brown Tabby,0,0
+Jane,12/12/2015 12:47:00,Dog,2 years,Labrador Retriever Mix,White/Black,1,1
+Rue,11/15/2013 17:50:00,Dog,12 years,Harrier Mix,Tricolor,1,1
+Howler,12/15/2014 9:35:00,Dog,2 years,Anatol Shepherd,Brown/Black,1,0
+Luke,12/1/2015 16:19:00,Dog,9 months,American Staffordshire Terrier Mix,Fawn/White,0,0
+Betsy,6/1/2014 13:22:00,Dog,9 years,Basset Hound Mix,White/Brown,1,0
+Annie,1/5/2015 16:38:00,Dog,2 years,Miniature Schnauzer Mix,Buff,1,1
+Hope,7/16/2015 12:23:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Coco,9/21/2014 12:01:00,Dog,5 months,Rottweiler Mix,Black/Brown,1,1
+Lucille,8/31/2015 11:10:00,Dog,4 months,Mexican Hairless Mix,Tan/Black,1,1
+,3/25/2015 14:33:00,Cat,2 weeks,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Dexter,1/9/2016 19:02:00,Dog,2 months,Labrador Retriever Mix,Black/White,1,1
+,9/3/2014 12:55:00,Cat,2 weeks,Domestic Shorthair Mix,Gray Tabby,1,0
+Riddle,10/5/2014 17:42:00,Dog,2 months,Redbone Hound Mix,Brown/Black,1,1
+Sid,6/16/2015 8:29:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+,5/2/2015 18:16:00,Cat,3 weeks,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Ajax,10/7/2015 12:00:00,Cat,4 months,Domestic Shorthair Mix,Black/White,1,0
+Chico,12/18/2014 18:13:00,Dog,2 years,Chihuahua Shorthair Mix,Brown/White,1,1
+Orson,7/8/2014 14:44:00,Cat,12 years,Domestic Shorthair Mix,Black,1,0
+Fiona,12/19/2013 15:01:00,Dog,2 years,Afghan Hound Mix,Tan/White,1,0
+Hank,1/26/2014 12:44:00,Dog,2 years,Pointer Mix,Brown/White,1,0
+Gabby,7/2/2014 18:54:00,Dog,3 years,Pit Bull Mix,Blue/White,0,0
+,7/13/2014 17:14:00,Dog,2 months,Dachshund/Chihuahua Shorthair,Sable/White,1,1
+Prince,3/19/2014 15:17:00,Dog,3 years,Pit Bull Mix,Blue Tiger/White,0,0
+Penelope,5/16/2014 12:50:00,Dog,5 years,Labrador Retriever Mix,Black/Brown,1,0
+Rigby,5/3/2015 13:29:00,Dog,8 months,Border Collie/Greyhound,Blue/White,1,1
+Tiki,1/30/2015 18:00:00,Cat,10 years,Domestic Shorthair Mix,Black/White,1,1
+,7/23/2014 16:02:00,Dog,1 month,Miniature Poodle Mix,Black/White,0,0
+Sylvie,1/19/2015 12:36:00,Dog,1 year,Catahoula Mix,Yellow Brindle,1,1
+Bowie,7/17/2015 18:00:00,Dog,6 years,Swedish Vallhund Mix,Sable,1,1
+Bella,7/5/2015 17:53:00,Cat,3 years,Domestic Shorthair Mix,Brown Tabby,1,1
+Petey,11/18/2014 19:02:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Nikita,2/12/2016 18:51:00,Dog,6 months,Australian Kelpie Mix,Black/Tan,1,0
+Ash,11/26/2013 18:19:00,Dog,1 year,Pit Bull Mix,Blue/White,0,1
+,1/20/2015 14:43:00,Dog,2 weeks,Border Collie Mix,Black/White,0,0
+Fancy,3/28/2014 14:39:00,Dog,2 years,Papillon/Border Collie,Black/White,1,0
+,5/22/2015 14:22:00,Cat,3 weeks,Domestic Shorthair Mix,Tortie/White,0,0
+,10/10/2014 9:00:00,Cat,5 months,Domestic Shorthair Mix,Black,0,0
+,11/21/2013 15:37:00,Cat,1 year,Domestic Shorthair Mix,Tortie,0,0
+Betty,9/3/2014 13:52:00,Dog,1 year,Miniature Schnauzer/Miniature Poodle,Gray,1,0
+Scooter,1/21/2015 13:15:00,Cat,1 year,Domestic Shorthair Mix,Blue/White,1,0
+,12/21/2015 19:13:00,Dog,2 months,Labrador Retriever/German Shepherd,Tan,1,1
+Georgia,6/25/2014 17:24:00,Cat,2 months,Domestic Shorthair Mix,Tortie,1,1
+,10/15/2013 12:17:00,Dog,10 years,Cocker Spaniel,White/Tan,0,0
+Estrella,7/23/2014 14:30:00,Dog,2 years,Boxer Mix,White/Brown Brindle,1,1
+Johnny,1/6/2014 17:19:00,Dog,3 months,Border Collie Mix,Tan/White,1,1
+,8/21/2014 14:15:00,Cat,2 weeks,Domestic Shorthair Mix,White,0,0
+,9/12/2015 14:29:00,Cat,2 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+,9/20/2014 18:58:00,Dog,1 year,Chihuahua Shorthair Mix,Tan/White,1,1
+Negro,9/8/2014 11:56:00,Dog,7 years,Chow Chow Mix,Black,1,0
+Clark,10/21/2013 16:53:00,Cat,2 months,Domestic Shorthair Mix,Cream Tabby,1,1
+Annabella,7/21/2014 18:08:00,Dog,2 years,Labrador Retriever Mix,White,0,0
+Willie,2/20/2016 12:53:00,Dog,12 years,Labrador Retriever Mix,Gold,1,0
+,6/18/2015 17:27:00,Cat,4 weeks,Domestic Shorthair Mix,White,0,0
+Austen,11/29/2015 16:45:00,Cat,2 months,Domestic Shorthair Mix,Black Tabby/White,1,1
+,7/19/2014 10:46:00,Dog,1 year,Pit Bull Mix,Brown Brindle/White,1,0
+Emily,1/6/2016 8:38:00,Cat,2 months,Domestic Shorthair Mix,Calico,1,1
+,6/19/2014 13:20:00,Cat,1 month,Domestic Shorthair Mix,Calico,0,0
+,5/24/2014 17:17:00,Dog,2 months,Australian Shepherd Mix,Chocolate/White,1,1
+,6/22/2015 16:18:00,Dog,1 month,Dachshund Mix,Tricolor,0,0
+Saxon,7/21/2014 11:50:00,Dog,1 year,German Shepherd Mix,Brown/White,1,0
+Marvin,2/7/2016 0:00:00,Cat,1 year,Domestic Shorthair Mix,Orange Tabby/White,1,0
+Yogi,11/1/2014 13:03:00,Dog,1 year,Blue Lacy Mix,Blue/White,1,0
+Bentley,8/1/2015 17:27:00,Dog,1 month,Dachshund Wirehair/Miniature Poodle,Black/Tan,1,1
+,5/3/2015 12:36:00,Dog,1 month,Chihuahua Shorthair Mix,Brown,0,0
+,6/29/2014 14:49:00,Cat,2 months,Siamese Mix,Lynx Point,1,1
+,5/20/2015 9:00:00,Cat,1 year,Domestic Shorthair Mix,Black,0,0
+Arthur,12/8/2013 23:22:00,Cat,2 years,Domestic Shorthair Mix,Orange Tabby,1,0
+Zion,9/20/2015 11:57:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby,1,1
+Frodo,1/20/2015 17:45:00,Dog,2 years,Miniature Schnauzer Mix,White,1,0
+Jacob,3/2/2015 18:32:00,Dog,4 months,English Pointer Mix,Brown/White,1,1
+Ryder,1/27/2015 19:06:00,Dog,1 year,Labrador Retriever/Australian Cattle Dog,Black/White,1,1
+Chiquilla,10/9/2013 13:39:00,Dog,2 years,Chihuahua Shorthair Mix,Brown/White,1,1
+Grape,1/20/2016 18:30:00,Cat,7 months,Domestic Shorthair Mix,Blue/White,1,1
+Sheos,6/20/2015 14:39:00,Dog,1 year,German Shepherd/Chow Chow,Brown/Tan,1,0
+,10/14/2014 17:02:00,Dog,3 years,Miniature Schnauzer Mix,Black/Gray,1,1
+Harvey,4/12/2014 11:47:00,Dog,6 months,Pit Bull/Weimaraner,Brown/White,0,0
+Daisy,10/7/2015 11:54:00,Dog,3 years,Yorkshire Terrier Mix,Black/Tan,0,0
+Alyssa,5/31/2015 0:00:00,Dog,1 year,Pit Bull Mix,Brown Brindle,1,0
+Annabelle,10/18/2014 14:43:00,Dog,2 years,Australian Kelpie Mix,Black/Tan,1,1
+Rory,9/14/2014 15:12:00,Dog,10 months,Queensland Heeler Mix,Blue Tick,0,0
+Cher,1/6/2015 15:06:00,Dog,2 months,Yorkshire Terrier/Chihuahua Shorthair,Black/Brown,0,0
+Gemma,2/13/2016 18:38:00,Dog,5 years,Pit Bull Mix,Brown/White,1,1
+Stache,8/13/2014 10:42:00,Dog,2 months,Australian Kelpie Mix,Sable,1,1
+Mya,3/28/2014 17:42:00,Cat,10 years,Domestic Shorthair Mix,Calico,1,0
+Third,11/26/2013 12:19:00,Dog,2 years,Pit Bull Mix,White/Gray,1,0
+Max,10/31/2013 13:03:00,Dog,4 months,Labrador Retriever Mix,Brown/Black,1,1
+Mitzi,5/3/2015 16:15:00,Cat,1 year,Domestic Shorthair Mix,White,1,1
+Chuchu,4/1/2014 13:22:00,Dog,1 year,West Highland/Chihuahua Shorthair,White,1,0
+Patience,12/1/2013 16:21:00,Dog,6 months,Labrador Retriever Mix,Black,1,1
+Scout,4/6/2015 16:16:00,Cat,3 years,Domestic Shorthair Mix,White/Blue,1,0
+,10/4/2014 14:59:00,Dog,2 months,Chihuahua Shorthair Mix,Black,1,1
+,8/19/2015 9:00:00,Cat,1 year,Domestic Shorthair Mix,Black/White,0,0
+Candy,11/4/2013 15:09:00,Cat,2 months,Domestic Shorthair Mix,Black,1,0
+Corban,8/12/2014 8:26:00,Cat,4 months,Domestic Longhair Mix,Cream Tabby/White,1,1
+Pippa,10/18/2015 18:45:00,Cat,1 year,Siamese Mix,Lynx Point,1,1
+Mimi,10/30/2014 15:53:00,Dog,1 year,Pit Bull Mix,White/Black,1,0
+Brownie,9/3/2015 18:21:00,Dog,2 years,Dachshund Mix,Brown,1,0
+Grissy,1/21/2016 11:10:00,Cat,6 months,Domestic Medium Hair Mix,Blue Tabby,1,1
+Glen,10/13/2014 14:54:00,Cat,1 month,Domestic Longhair Mix,Orange Tabby,0,0
+,7/12/2014 15:47:00,Cat,1 month,Domestic Shorthair Mix,Brown Tabby,0,0
+Archer,2/12/2015 18:00:00,Cat,4 months,Domestic Shorthair Mix,Black/White,1,1
+River,6/28/2014 13:45:00,Cat,2 months,Domestic Shorthair Mix,Black/White,0,1
+Sugarberry,8/10/2015 18:04:00,Dog,8 months,Pointer Mix,Black/White,1,1
+Lily Pad,12/27/2014 11:38:00,Cat,12 years,Domestic Shorthair Mix,Orange Tabby/White,1,0
+Natasha,3/7/2014 17:35:00,Dog,12 years,Chow Chow Mix,Brown/Tan,1,0
+,10/15/2015 12:30:00,Cat,3 weeks,Siamese Mix,White/Black,0,0
+Bolo,6/19/2015 14:43:00,Dog,1 year,Border Collie/German Shepherd,Black,1,0
+Clementine,6/26/2015 9:42:00,Cat,1 month,Domestic Shorthair Mix,Orange Tabby,0,0
+Roxy,11/15/2014 11:56:00,Dog,5 years,Dogo Argentino Mix,White,1,1
+,7/22/2014 16:02:00,Dog,8 years,Chihuahua Shorthair Mix,Brown,0,0
+Sadie,7/10/2014 11:04:00,Dog,8 years,Pit Bull Mix,Tan,1,0
+Bonnie,12/20/2015 12:25:00,Dog,1 year,Great Pyrenees Mix,White/Black,1,1
+Otis,4/2/2015 13:57:00,Dog,2 years,Boxer/Australian Cattle Dog,Red/White,1,0
+Kilo,10/28/2013 17:17:00,Dog,1 year,German Shepherd Mix,Tan/Black,1,0
+Emma,8/4/2014 16:57:00,Cat,2 months,Domestic Shorthair Mix,Torbie/White,1,1
+,9/21/2015 15:58:00,Cat,1 month,Domestic Shorthair Mix,Black,0,0
+Bessy,5/18/2015 13:31:00,Cat,2 years,Domestic Shorthair Mix,Blue/White,0,0
+Ziggy,7/30/2015 19:12:00,Cat,2 months,Domestic Shorthair Mix,Blue Tabby,1,1
+Toad,4/6/2015 18:31:00,Cat,4 years,Domestic Shorthair Mix,Black,1,1
+Carnegie,7/2/2015 8:20:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby,1,1
+Kevin,11/15/2014 16:29:00,Cat,2 months,Domestic Shorthair Mix,Black Smoke/White,1,1
+Daisy,8/16/2015 12:36:00,Dog,5 years,Basset Hound Mix,Tricolor,1,1
+Tiger,1/8/2015 17:37:00,Cat,5 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Princess,11/29/2014 16:58:00,Cat,2 months,Domestic Longhair Mix,White/Black,1,1
+Chica Loca,5/25/2014 19:31:00,Cat,2 months,Domestic Medium Hair Mix,Brown Tabby/White,1,1
+Disa,10/30/2014 11:01:00,Dog,3 years,Shiba Inu Mix,Tan/White,1,0
+Lucky,10/31/2015 16:59:00,Dog,3 years,Pit Bull Mix,Fawn/White,1,0
+Lulu,5/31/2014 13:57:00,Cat,1 month,Domestic Shorthair Mix,Black,0,0
+Frank,5/26/2014 14:14:00,Dog,1 year,Plott Hound Mix,Yellow Brindle,1,0
+Mickey,11/24/2015 0:00:00,Dog,2 years,Chihuahua Shorthair Mix,Black/Tan,1,0
+,11/25/2014 10:09:00,Cat,2 months,Domestic Shorthair Mix,Blue,1,1
+Champ,6/17/2014 17:27:00,Dog,2 years,Beauceron Mix,Black/Tan,1,0
+Odin,6/20/2015 16:18:00,Dog,6 years,Chinese Sharpei Mix,Tan/Black,1,0
+Zip,10/18/2014 12:31:00,Dog,5 months,Chihuahua Shorthair Mix,Black/Tan,0,0
+Minnie,2/9/2016 14:41:00,Cat,5 years,Domestic Shorthair Mix,Blue Tabby/Orange,1,0
+Klaus,9/2/2015 17:33:00,Cat,2 months,Domestic Shorthair Mix,White/Brown Tabby,1,1
+Elliot,4/6/2014 12:20:00,Dog,3 months,Pekingese Mix,Brown/Black,1,0
+Lora,2/28/2015 16:35:00,Dog,2 months,Anatol Shepherd Mix,White/Brown,1,1
+Woodrow,10/22/2013 18:32:00,Cat,15 years,Siamese Mix,Blue Point,1,0
+Fred,12/8/2014 12:02:00,Dog,8 years,Catahoula/Pit Bull,White/Tan,1,0
+,5/21/2014 8:00:00,Cat,1 year,Domestic Shorthair Mix,Calico,0,0
+Lil Sister,11/1/2013 17:54:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Leo,7/25/2015 17:04:00,Cat,1 year,Maine Coon Mix,Brown Tabby,1,1
+Pepper,2/10/2014 17:16:00,Dog,2 years,Rat Terrier Mix,Black/Brown,1,0
+Meyer,10/17/2013 15:38:00,Cat,1 month,Domestic Medium Hair Mix,Blue,0,0
+Spartus,1/12/2014 13:59:00,Dog,2 months,Pit Bull Mix,Fawn,0,0
+,6/11/2015 15:00:00,Cat,3 weeks,Domestic Shorthair Mix,Calico,0,0
+Miori,8/13/2015 16:07:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby/White,1,0
+Gandolf,8/29/2014 13:08:00,Dog,9 years,Shih Tzu Mix,White/Gray,1,0
+Sadie,1/14/2014 18:22:00,Dog,7 years,Labrador Retriever Mix,Buff/Tan,1,0
+Tequila,2/9/2016 14:53:00,Dog,6 years,Schipperke Mix,Black,1,0
+Samson,4/7/2015 14:54:00,Cat,10 years,Domestic Longhair Mix,Black,1,0
+Robin,10/9/2015 8:53:00,Cat,2 months,Domestic Shorthair Mix,Torbie,1,1
+Macy,8/4/2014 13:51:00,Cat,8 years,Domestic Longhair Mix,Brown Tabby,1,1
+Roxy,2/12/2016 12:26:00,Dog,9 months,Pointer/Boxer,White/Brown,1,0
+,6/22/2015 13:31:00,Cat,3 years,Domestic Shorthair Mix,Blue Tabby/White,0,0
+Jasper,2/11/2014 14:04:00,Dog,8 months,Labrador Retriever/Standard Poodle,Black,1,1
+,12/4/2013 14:38:00,Cat,3 weeks,Domestic Shorthair Mix,Orange Tabby/White,0,0
+Buster,10/12/2015 17:30:00,Dog,9 months,Rottweiler Mix,Black/Tan,1,0
+,10/2/2013 14:28:00,Cat,2 weeks,Domestic Shorthair Mix,Blue Tabby,0,0
+Comet,12/11/2015 15:21:00,Dog,10 months,Australian Cattle Dog Mix,Red Merle,1,1
+Buster,5/30/2015 15:53:00,Dog,11 years,Boxer Mix,Brown Brindle/White,1,0
+Squirrel,1/5/2015 18:36:00,Dog,1 year,Chihuahua Shorthair Mix,Tricolor/Blue,1,1
+Bingo,5/7/2014 13:05:00,Dog,5 years,Chihuahua Shorthair Mix,White/Brown,1,0
+Wild Bill,10/16/2014 19:04:00,Dog,2 years,German Shepherd/Bull Terrier,Brown,1,1
+Arby,10/10/2015 13:56:00,Dog,5 years,Miniature Pinscher/Pomeranian,Red,0,0
+Coco,4/19/2014 13:34:00,Cat,1 year,Domestic Shorthair Mix,Orange Tabby/White,1,0
+Katie,12/15/2013 18:27:00,Dog,3 years,Labrador Retriever Mix,Black/White,1,0
+Coco,4/28/2014 15:43:00,Dog,1 year,Beagle Mix,Red/White,1,1
+Nelly,12/18/2013 16:14:00,Cat,1 month,Domestic Shorthair Mix,Orange Tabby,0,0
+,10/16/2015 16:20:00,Cat,2 years,Domestic Shorthair Mix,White/Black,1,1
+,6/4/2015 18:52:00,Dog,6 days,Chihuahua Shorthair/Pit Bull,White,0,0
+Ivana,9/20/2015 17:26:00,Dog,1 year,Pit Bull Mix,Black/White,1,1
+Grant,9/21/2014 16:23:00,Dog,12 years,Harrier Mix,Tricolor,1,0
+,6/24/2014 16:34:00,Dog,5 weeks,Australian Cattle Dog Mix,Tricolor,0,0
+Callie,11/23/2013 17:56:00,Dog,2 years,Rat Terrier Mix,White/Brown,1,1
+,3/10/2015 16:12:00,Dog,1 year,Doberman Pinsch,Black/Brown,1,0
+Scooby,4/29/2015 18:07:00,Dog,1 year,Chihuahua Shorthair Mix,Tan,1,1
+Rhianna,9/17/2015 14:32:00,Dog,2 years,Labrador Retriever Mix,Yellow/White,0,0
+Snickers,1/16/2016 19:14:00,Dog,1 year,Miniature Poodle Mix,White/Brown,1,1
+,12/20/2013 17:52:00,Cat,6 months,Burmese,Chocolate,1,1
+Samus,7/12/2014 19:48:00,Dog,2 months,Redbone Hound/Anatol Shepherd,Brown/White,1,1
+Pichus,12/10/2015 19:05:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Heaven,11/13/2015 12:29:00,Dog,2 years,Chihuahua Shorthair Mix,Chocolate/White,0,0
+Andy,4/18/2014 12:01:00,Dog,5 months,Pit Bull Mix,Black,0,0
+Sunny Bunny,12/31/2013 14:32:00,Dog,2 years,Pit Bull Mix,Tan/White,1,0
+,8/17/2014 9:00:00,Cat,1 year,Domestic Shorthair Mix,Orange Tabby/White,0,0
+,11/18/2015 19:33:00,Cat,2 years,Domestic Shorthair Mix,Calico,0,0
+Basil,10/1/2014 15:50:00,Cat,1 year,Domestic Shorthair Mix,Calico,1,0
+Olive,10/25/2015 14:53:00,Cat,2 months,Domestic Shorthair Mix,White/Blue,1,1
+Wiz,9/9/2014 17:15:00,Cat,2 years,Maine Coon Mix,Brown Tabby,1,1
+Loki,11/23/2015 18:42:00,Cat,3 years,Domestic Shorthair Mix,Blue Tabby,1,0
+Tori,2/20/2016 13:20:00,Cat,6 months,Domestic Shorthair Mix,Torbie,1,1
+,1/16/2016 18:54:00,Dog,1 month,Pit Bull Mix,White/Black,0,0
+,10/27/2014 11:49:00,Cat,2 weeks,Domestic Medium Hair Mix,Blue,0,0
+Jasper,12/29/2014 11:15:00,Dog,2 months,German Shepherd/Labrador Retriever,Black/White,1,1
+Hardware,2/6/2014 17:41:00,Cat,3 years,Domestic Shorthair Mix,Brown Tabby/White,1,0
+Howie,6/3/2014 14:41:00,Cat,1 month,Domestic Shorthair Mix,Brown Tabby,0,0
+Monkey,10/10/2013 16:25:00,Cat,4 months,Domestic Shorthair Mix,Black,1,1
+Mariah,10/19/2013 15:25:00,Dog,2 years,Labrador Retriever,Cream,0,0
+Daisy,7/20/2014 15:01:00,Cat,2 months,Domestic Shorthair Mix,Black Smoke,1,1
+,8/9/2014 15:58:00,Cat,3 weeks,Domestic Shorthair Mix,Black,0,0
+Ducky,7/2/2015 0:00:00,Cat,3 months,Domestic Shorthair Mix,Black,1,0
+Chomps,12/19/2015 17:50:00,Dog,2 years,Pit Bull Mix,Brown Brindle/White,1,0
+Zorro,12/20/2014 14:03:00,Dog,11 years,Labrador Retriever Mix,Black,1,0
+Mia,8/15/2015 8:45:00,Cat,3 months,Domestic Shorthair Mix,Tortie,1,1
+Maggie,10/5/2013 18:56:00,Dog,10 months,Australian Shepherd/Australian Cattle Dog,Blue Merle/White,1,1
+Hank,6/30/2014 14:52:00,Dog,2 years,Boxer/Chow Chow,Red/White,1,1
+,10/6/2014 18:35:00,Cat,2 months,Siamese Mix,Calico Point,0,0
+Luigi,11/3/2015 13:12:00,Dog,2 years,Dogo Argentino Mix,White,1,0
+Isis,12/30/2015 15:20:00,Dog,7 years,Chow Chow/Australian Kelpie,Tan,1,0
+,1/7/2015 17:25:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Lola,3/16/2015 13:06:00,Dog,1 year,Pit Bull Mix,Brown/White,1,0
+Blue,8/15/2015 8:38:00,Dog,6 years,Pit Bull Mix,Blue/White,1,1
+,7/22/2014 17:34:00,Cat,2 weeks,Domestic Shorthair Mix,Black,0,0
+Ranger,10/28/2013 11:58:00,Dog,4 months,Labrador Retriever Mix,Brown,1,0
+Brownie,12/12/2014 16:30:00,Dog,6 years,Pit Bull Mix,Blue Cream/Blue Tiger,1,0
+Cookie,7/11/2014 17:26:00,Dog,4 years,Chihuahua Shorthair Mix,Tricolor,1,1
+Pinky,11/4/2013 15:10:00,Dog,1 year,Dachshund Mix,Black/Brown,0,0
+Onyx,9/9/2015 13:46:00,Dog,1 year,Labrador Retriever/Chinese Sharpei,Black/White,1,1
+,9/11/2015 12:53:00,Cat,1 year,Domestic Shorthair Mix,Blue,0,0
+Tracy,1/18/2015 12:28:00,Dog,2 months,Chihuahua Shorthair Mix,Brown/White,1,1
+,8/2/2014 11:59:00,Dog,2 months,Great Pyrenees/Border Collie,White/Tan,1,0
+Spot,1/11/2014 9:46:00,Dog,5 years,Catahoula Mix,Blue Merle/Gray,1,0
+Brix,10/18/2014 15:21:00,Dog,2 years,American Pit Bull Terrier Mix,White/Brown Brindle,1,1
+Pancho,11/24/2015 19:03:00,Dog,2 years,Pit Bull Mix,Brown/White,1,0
+Peanut,5/29/2015 12:25:00,Dog,2 years,Chihuahua Shorthair Mix,Brown,1,0
+Baxter,8/19/2014 15:18:00,Dog,3 years,Chihuahua Shorthair Mix,Black/Tan,1,1
+Milly,1/8/2014 16:59:00,Dog,1 year,Jack Russell Terrier Mix,White,1,0
+Karma,3/15/2015 11:42:00,Dog,4 years,Catahoula Mix,Brown/Black,1,0
+Flash,9/29/2015 16:20:00,Dog,2 years,Whippet/Chihuahua Shorthair,White/Brown,1,1
+,8/11/2015 0:00:00,Cat,3 weeks,Domestic Shorthair Mix,Blue Tabby,0,0
+Scrappy,10/15/2015 17:11:00,Dog,1 year,Tibetan Terrier Mix,White/Tan,1,0
+Roxy,8/15/2015 12:49:00,Dog,2 years,American Pit Bull Terrier Mix,Black,1,0
+,12/21/2013 18:28:00,Dog,1 year,Chihuahua Shorthair Mix,Buff/White,1,1
+,9/22/2015 11:16:00,Cat,2 weeks,Domestic Shorthair Mix,Tortie,0,0
+,7/9/2014 9:00:00,Cat,1 year,Domestic Shorthair Mix,Calico,0,0
+Fluff,3/29/2014 18:13:00,Cat,5 months,Domestic Medium Hair,Blue Tabby,1,1
+Cupulin,1/31/2014 14:52:00,Dog,2 years,Labrador Retriever Mix,Black,1,0
+,4/24/2015 15:35:00,Dog,2 months,Labrador Retriever Mix,Black,0,0
+Miss Crush,12/31/2014 12:52:00,Dog,2 years,Pit Bull Mix,Brown/White,1,0
+,11/11/2013 15:24:00,Cat,2 years,Domestic Shorthair Mix,Black/White,0,0
+,10/7/2015 9:00:00,Cat,4 years,Domestic Medium Hair Mix,Black/White,0,0
+Jaco,6/15/2015 15:02:00,Dog,11 years,Border Collie,Chocolate/White,1,0
+,2/20/2015 19:06:00,Dog,4 months,Labrador Retriever Mix,Chocolate/White,0,0
+Peewee,2/4/2016 17:58:00,Dog,2 years,Jack Russell Terrier/Australian Cattle Dog,White/Black,1,1
+,8/5/2014 16:21:00,Cat,2 weeks,Domestic Shorthair Mix,Black,0,0
+Viola,12/11/2013 17:35:00,Dog,6 years,Dachshund Mix,Red,1,0
+,5/28/2014 15:39:00,Cat,4 months,Domestic Shorthair Mix,Blue,1,1
+Squeaky,1/31/2016 0:00:00,Dog,4 years,Jack Russell Terrier/Australian Cattle Dog,White/Black,1,0
+June Bug,6/29/2014 18:14:00,Dog,4 years,Catahoula/Australian Shepherd,Tan/White,1,1
+,7/11/2014 15:57:00,Dog,2 months,Labrador Retriever Mix,Black/White,0,0
+,6/29/2014 11:43:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+Troy,9/3/2014 16:48:00,Dog,2 years,Collie Rough Mix,Tricolor,1,0
+Hunca Munca,1/10/2015 17:29:00,Dog,3 years,Staffordshire Mix,Blue,1,1
+Wombat,11/11/2015 12:19:00,Cat,1 month,Domestic Shorthair Mix,Black/White,0,0
+Coco,11/24/2013 18:54:00,Dog,2 years,Silky Terrier Mix,Brown/Silver,1,0
+Snkaefarm,12/6/2013 18:22:00,Dog,2 years,Bruss Griffon Mix,Brown Brindle/White,1,1
+,12/4/2014 13:16:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+Camino,4/21/2014 17:31:00,Dog,3 years,Jack Russell Terrier Mix,Tricolor,1,0
+Buster,1/18/2016 15:07:00,Dog,11 years,Chihuahua Shorthair Mix,Buff,1,0
+Ghost,12/14/2015 18:18:00,Dog,2 years,Siberian Husky Mix,Black/White,1,0
+Lobo,12/8/2015 11:41:00,Dog,7 years,Siberian Husky Mix,Red/White,0,0
+Bruce Willis,11/21/2014 17:10:00,Dog,1 year,Pit Bull Mix,Brown Brindle,1,1
+Pinto,11/27/2015 12:50:00,Dog,7 years,Chihuahua Shorthair Mix,Buff,0,0
+,2/15/2016 0:00:00,Dog,2 weeks,Labrador Retriever Mix,Tricolor,0,0
+Amy,3/27/2014 8:55:00,Cat,4 years,Domestic Shorthair Mix,Brown Tabby,1,0
+,7/25/2014 16:50:00,Cat,1 weeks,Manx Mix,Orange Tabby/White,0,0
+Linus,12/1/2015 9:07:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+X,7/18/2014 12:58:00,Cat,1 year,Domestic Shorthair Mix,Orange Tabby/White,0,0
+Buddy,4/3/2014 19:07:00,Dog,2 years,Beagle Mix,Tricolor,1,0
+,10/21/2014 8:10:00,Cat,4 years,Domestic Shorthair Mix,Black,1,0
+Rusty,1/11/2015 16:18:00,Dog,10 years,Vizsla,Red,1,1
+Tonka,2/13/2014 16:42:00,Dog,2 years,Staffordshire Mix,White,1,0
+Shelby,2/1/2015 14:58:00,Dog,2 years,German Shepherd,Black/Brown,0,0
+Mac,1/22/2015 17:08:00,Dog,2 months,Boxer Mix,Brown/White,1,1
+Libby 2,6/16/2014 12:12:00,Dog,1 year,Shih Tzu Mix,White/Tan,0,0
+,5/20/2014 10:55:00,Dog,5 months,Chihuahua Shorthair Mix,Black/White,0,0
+,6/11/2014 11:10:00,Cat,3 years,Domestic Shorthair,Blue Tabby,0,0
+Bailey,1/1/2015 15:41:00,Dog,4 years,Australian Shepherd Mix,White/Brown,1,1
+Gizmo,12/13/2013 10:54:00,Cat,2 months,Domestic Shorthair Mix,Black/White,1,1
+Reeses,11/23/2014 18:15:00,Dog,1 month,Miniature Pinscher/Chihuahua Shorthair,Chocolate/Tan,1,1
+Alistair,8/25/2015 9:16:00,Cat,3 months,Domestic Longhair Mix,Black,0,0
+Leroy,12/19/2013 11:08:00,Dog,2 years,Pit Bull Mix,Blue/White,1,0
+Walter White,11/3/2013 15:00:00,Dog,1 year,Miniature Poodle Mix,White,1,1
+Best Friend,1/19/2014 12:51:00,Dog,3 years,Chihuahua Shorthair Mix,Brown/White,0,0
+Brooke,5/5/2015 13:43:00,Dog,1 year,Rat Terrier Mix,White/Brown,1,1
+Cornelius,9/6/2015 15:56:00,Dog,8 months,Chihuahua Shorthair Mix,Sable,1,1
+Clover,4/4/2015 18:02:00,Dog,5 months,Chihuahua Shorthair Mix,White/Tan,1,1
+Sage,11/18/2015 18:26:00,Dog,2 years,Pit Bull Mix,Tan/White,1,0
+Kailah,12/8/2015 18:25:00,Dog,2 years,Pit Bull Mix,White/Black,1,1
+Violet,4/12/2015 15:46:00,Dog,5 years,Shih Tzu,White/Gray,1,1
+Roxie,11/2/2015 18:47:00,Dog,5 years,Chihuahua Shorthair Mix,Brown/White,1,0
+Willie,11/15/2013 14:52:00,Dog,1 year,Pit Bull Mix,White/Tan,1,0
+Rudy,8/2/2014 17:24:00,Dog,2 months,Chihuahua Shorthair Mix,Brown,1,1
+,2/6/2016 19:07:00,Cat,3 years,Domestic Shorthair Mix,Black/White,0,0
+,7/18/2014 14:03:00,Cat,2 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Jude,5/24/2014 17:03:00,Dog,1 month,Beagle/Pug,White/Brown,1,1
+Toto,2/3/2014 12:26:00,Dog,4 years,Chihuahua Longhair Mix,Tan,1,0
+Scruffy,12/23/2013 18:43:00,Dog,10 months,Border Terrier/Yorkshire Terrier,Black/Brown,1,1
+Fuzzbox,2/15/2016 11:41:00,Cat,6 months,Domestic Shorthair Mix,Blue Tabby/White,1,0
+Maddy,2/7/2015 17:31:00,Dog,2 years,Pug/Beagle,Fawn,1,1
+Tigz,12/20/2015 12:28:00,Dog,5 years,Boerboel Mix,Tan/Black,1,1
+,6/21/2014 9:20:00,Cat,6 days,Domestic Shorthair Mix,Brown Tabby,0,0
+O'Reily,12/31/2015 11:32:00,Dog,8 years,Golden Retriever Mix,Tan,1,0
+,5/30/2015 16:55:00,Dog,1 month,Shih Tzu,Brown/White,1,1
+Pancha,11/25/2014 12:02:00,Dog,1 year,Doberman Pinsch/Vizsla,Tricolor,1,0
+Wanda,10/6/2015 15:07:00,Cat,1 month,Domestic Shorthair Mix,Black,0,0
+Dutchess,6/29/2015 15:22:00,Cat,2 years,Domestic Shorthair Mix,Brown Tabby,1,1
+Felix,8/4/2015 12:25:00,Cat,8 years,Domestic Shorthair Mix,Black,1,0
+,6/17/2014 13:52:00,Cat,1 month,Domestic Shorthair Mix,Torbie,0,0
+Tom,8/1/2014 15:10:00,Cat,2 months,Domestic Shorthair Mix,Black,0,0
+Jerry,12/26/2013 17:56:00,Cat,9 months,Domestic Shorthair Mix,Black/White,1,1
+,4/15/2014 16:58:00,Dog,4 months,Jack Russell Terrier Mix,White/Brown,0,0
+Jasper,10/26/2013 12:31:00,Dog,12 years,Australian Shepherd Mix,Black/Brown,1,0
+Jingle,1/26/2014 16:41:00,Cat,1 year,Bengal Mix,Brown Tabby,1,1
+Darling,3/14/2015 13:53:00,Dog,8 years,Jack Russell Terrier Mix,White/Brown,1,1
+Violet,7/16/2014 18:46:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby,1,1
+Sandy,7/13/2014 14:26:00,Dog,1 month,Labrador Retriever/Blue Lacy,Tricolor,1,1
+,10/9/2013 17:04:00,Cat,2 weeks,Domestic Shorthair Mix,Blue,0,0
+,3/26/2014 13:23:00,Cat,2 days,Domestic Shorthair Mix,Blue/White,0,0
+Joni,1/2/2015 17:39:00,Cat,4 months,Domestic Shorthair Mix,Black,1,1
+Romulus,11/19/2015 18:02:00,Cat,2 months,Siamese Mix,Lilac Point,1,1
+Georgia,4/14/2015 14:34:00,Dog,1 year,Rat Terrier Mix,Tricolor,1,1
+Palomo,11/1/2015 17:26:00,Dog,1 year,Pit Bull Mix,White/Black,1,0
+Coketa,2/19/2014 18:02:00,Dog,3 years,Bichon Frise Mix,White,1,0
+,5/13/2014 15:19:00,Dog,4 weeks,Labrador Retriever,Black,0,0
+Fiona,4/20/2014 17:19:00,Dog,4 years,Border Collie Mix,Black/White,1,1
+Twila,2/11/2016 15:02:00,Cat,1 year,Domestic Shorthair Mix,Brown Tabby,1,0
+,5/17/2015 0:00:00,Dog,5 months,Cairn Terrier Mix,Tan,0,0
+Mako,11/24/2015 18:56:00,Dog,6 months,German Shepherd/Akita,Tricolor,1,1
+Rocky,10/4/2014 16:24:00,Dog,10 months,Miniature Pinscher Mix,Black/Tan,1,0
+Chikis,2/27/2014 18:25:00,Dog,3 years,Miniature Poodle Mix,White,1,0
+Centurion,11/11/2014 17:34:00,Dog,2 years,Pit Bull/Blue Lacy,Black,1,0
+Lady,8/30/2015 11:21:00,Dog,2 years,Labrador Retriever Mix,Black/White,1,0
+Hershey,11/30/2013 16:29:00,Dog,11 months,Pointer Mix,Brown/White,1,1
+Cinnamon,4/27/2014 12:40:00,Cat,4 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Smaug,7/4/2014 13:31:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+Jones,11/20/2014 12:33:00,Cat,2 months,Domestic Medium Hair Mix,Cream Tabby/White,1,0
+Kozi,8/4/2014 12:52:00,Dog,5 years,Pit Bull Mix,White/Blue,1,0
+Thunderkit,2/3/2014 15:23:00,Cat,8 years,Domestic Longhair Mix,Gray/White,1,1
+Cricket,2/13/2016 10:15:00,Cat,1 year,Domestic Shorthair Mix,Brown Tabby,1,1
+Prince,10/16/2015 12:14:00,Dog,5 years,Yorkshire Terrier/Miniature Poodle,Black,1,0
+,5/5/2015 9:00:00,Cat,1 year,Domestic Shorthair Mix,Calico,0,0
+Taz,1/10/2014 17:06:00,Dog,1 year,Pit Bull Mix,Brown Brindle/White,0,0
+Smokey,6/21/2015 17:27:00,Cat,2 months,Domestic Medium Hair Mix,Blue Tabby/White,1,1
+Lindsey,4/8/2014 15:30:00,Dog,4 years,Chihuahua Shorthair Mix,Black/White,1,0
+Oxford,4/4/2015 15:26:00,Dog,2 years,Pointer/Collie Smooth,Tricolor,1,1
+Miki,11/17/2015 19:14:00,Cat,2 years,Domestic Medium Hair Mix,Tortie,1,1
+Dane,8/6/2015 14:54:00,Dog,3 months,Pit Bull Mix,White/Brown,1,1
+Tim,1/13/2014 17:55:00,Cat,4 months,Domestic Shorthair Mix,Black/White,1,1
+,5/24/2014 9:17:00,Cat,2 months,Domestic Shorthair Mix,Black/White,1,1
+Elliot,10/17/2014 11:52:00,Dog,1 year,Miniature Poodle/Miniature Schnauzer,White,1,1
+Alex,10/18/2013 12:31:00,Cat,1 month,Domestic Shorthair Mix,Orange Tabby,0,0
+Bentley,1/8/2015 11:31:00,Dog,4 years,Yorkshire Terrier,White/Gray,1,0
+Kobe,3/3/2014 14:00:00,Dog,2 years,Chihuahua Shorthair Mix,Black/Tan,1,0
+Elia,10/18/2015 16:24:00,Cat,10 months,Domestic Medium Hair Mix,Black/White,1,1
+,11/17/2014 14:15:00,Dog,10 years,Catahoula Mix,Blue Merle,0,0
+Misty,9/30/2014 11:48:00,Dog,10 years,Border Collie Mix,Black/White,0,0
+,11/15/2014 19:13:00,Dog,5 years,Chihuahua Shorthair Mix,Tan/White,1,1
+Big Red,1/10/2016 13:28:00,Dog,3 years,American Staffordshire Terrier/Labrador Retriever,Tan/White,1,1
+Pavel,8/7/2014 14:33:00,Cat,3 months,Domestic Shorthair Mix,Black,1,1
+,9/4/2014 13:29:00,Cat,3 weeks,Domestic Shorthair Mix,Tortie,0,0
+Hannah,5/9/2014 13:02:00,Dog,3 years,Manchester Terrier Mix,Black/Tan,1,0
+,7/22/2014 11:30:00,Dog,3 weeks,Chihuahua Longhair Mix,Black/Brown,0,0
+Dixie,11/9/2014 18:15:00,Dog,4 months,Chihuahua Shorthair Mix,Buff,1,1
+Bo,5/21/2015 17:37:00,Dog,5 years,Pit Bull Mix,Blue,1,0
+,9/25/2015 19:16:00,Cat,2 months,Domestic Shorthair Mix,Cream Tabby,1,1
+Benji,2/22/2015 18:17:00,Dog,6 months,Rat Terrier/Cardigan Welsh Corgi,Black/Gray,1,1
+Johnny,10/19/2013 17:04:00,Dog,2 months,Chihuahua Shorthair Mix,Brown/Black,1,1
+,12/4/2013 12:43:00,Dog,2 years,Jack Russell Terrier/Dachshund,Black/Brown,1,0
+Bambi,12/19/2015 16:11:00,Dog,5 years,Chihuahua Shorthair Mix,Tan,0,0
+,11/9/2015 14:46:00,Dog,1 year,Miniature Pinscher Mix,Brown,0,0
+Lucky,12/28/2013 15:26:00,Dog,2 years,Labrador Retriever Mix,Black/White,1,1
+Lucky,12/19/2015 12:06:00,Dog,5 years,Dachshund Mix,Tan/White,1,1
+,6/29/2015 16:37:00,Cat,1 week,Domestic Shorthair Mix,Orange Tabby,0,0
+Sonny,1/15/2014 8:32:00,Cat,7 years,Domestic Medium Hair Mix,Black,1,1
+Butter,11/17/2014 17:15:00,Cat,2 months,Domestic Shorthair Mix,Cream Tabby,1,1
+Bonita,2/4/2014 18:39:00,Dog,2 months,Chihuahua Shorthair,Tan/White,1,1
+Treasure,1/19/2014 16:47:00,Cat,3 months,Domestic Shorthair Mix,Torbie,1,1
+Gigi,11/3/2013 12:50:00,Dog,4 years,Border Collie/Chow Chow,Black,1,1
+Edward,6/5/2014 15:38:00,Cat,2 months,Domestic Shorthair Mix,Brown Tabby/White,1,1
+,2/27/2015 9:00:00,Cat,1 year,Domestic Shorthair Mix,Brown Tabby/White,0,0
+,3/16/2014 18:16:00,Cat,1 weeks,Domestic Shorthair Mix,Brown Tabby/White,0,0
+Brimmer,5/31/2015 15:47:00,Dog,2 years,English Setter Mix,White/Brown,0,0
+,12/1/2014 11:44:00,Dog,1 year,Miniature Poodle Mix,White,1,0
+Sam,11/2/2015 18:28:00,Cat,2 months,Domestic Shorthair Mix,Black,1,1
+Laramie,7/26/2015 17:30:00,Cat,1 month,Domestic Shorthair Mix,Black/White,1,1
+Blondie,8/22/2014 12:29:00,Cat,2 months,Domestic Shorthair Mix,Orange Tabby/White,1,1
+,8/2/2014 9:00:00,Cat,3 months,Domestic Shorthair Mix,Brown Tabby,0,0
+,8/3/2014 15:39:00,Dog,2 months,Chihuahua Shorthair Mix,Black,0,0
+Lyle,10/14/2013 16:32:00,Dog,1 year,Dachshund Mix,Tan,1,0
+Penny,1/20/2014 11:08:00,Dog,9 months,Pomeranian Mix,Cream,1,0
+Valentine,9/9/2014 18:45:00,Dog,5 years,Pit Bull Mix,Brown/White,1,1
+Buck,4/30/2015 16:08:00,Dog,10 months,Chihuahua Shorthair Mix,Black/White,1,1
+Chuck,2/25/2014 14:12:00,Cat,5 years,Domestic Longhair Mix,Cream Tabby,1,0
+Rhino,11/11/2013 11:48:00,Dog,1 year,Boxer/Pit Bull,White/Tan,1,0
+Annie,4/20/2014 15:44:00,Cat,2 years,Domestic Shorthair Mix,Brown Tabby/White,1,1
+Sally,10/1/2014 15:08:00,Dog,5 years,Labrador Retriever Mix,White,1,0
+Stomper,9/3/2015 18:24:00,Dog,2 years,Basset Hound Mix,White/Tricolor,1,0
+Silvercloud,3/10/2015 17:51:00,Dog,3 years,Pit Bull Mix,Blue/White,1,0
+Riley,5/9/2014 12:44:00,Dog,2 months,Greater Swiss Mountain Dog Mix,Tricolor/White,0,1
+Todd,12/24/2013 12:54:00,Cat,5 months,Domestic Shorthair Mix,Black,1,0
+Rufus,3/11/2015 19:24:00,Dog,2 years,Labrador Retriever Mix,Chocolate/White,1,1
+,6/29/2015 13:51:00,Cat,1 week,Domestic Shorthair Mix,Orange Tabby,0,0
+Chief,3/14/2015 17:13:00,Dog,7 months,German Shepherd,Sable/Black,1,0
+Dolly,1/11/2016 17:50:00,Cat,3 months,Domestic Shorthair Mix,Calico,1,1
+Nana,7/1/2015 18:15:00,Dog,6 years,Chihuahua Shorthair Mix,Brown,1,1
+Sofie,3/29/2014 16:12:00,Dog,4 years,Border Collie Mix,White/Black,1,1
+Tabitha,1/18/2016 16:18:00,Cat,3 years,Domestic Shorthair Mix,Brown Tabby,1,1
+Lil Bear,4/19/2015 12:22:00,Dog,1 year,Chihuahua Shorthair Mix,Brown/Tan,1,0
+,7/7/2014 18:39:00,Dog,4 months,German Shepherd Mix,Chocolate/Tan,1,1
+X,7/18/2014 15:46:00,Cat,5 years,Domestic Shorthair Mix,Torbie/White,0,0
+,1/3/2016 16:44:00,Dog,1 month,Chihuahua Shorthair Mix,Brown/Black,0,0
+,11/25/2015 20:20:00,Cat,2 years,Domestic Shorthair Mix,Tricolor,0,0
+Charlotte,3/30/2014 12:28:00,Cat,1 year,Domestic Longhair Mix,Brown Tabby,1,1
+,11/20/2015 12:30:00,Cat,4 months,Domestic Shorthair Mix,Torbie/White,1,1
+Chico,12/21/2013 15:56:00,Dog,10 months,Chihuahua Shorthair Mix,Chocolate/White,1,0
+Coco,5/30/2015 18:10:00,Dog,12 years,Labrador Retriever/Doberman Pinsch,Chocolate/Tan,1,0
+,5/6/2015 16:31:00,Cat,2 weeks,Domestic Shorthair Mix,Brown Tabby,0,0
+Charles,7/1/2015 11:21:00,Dog,6 years,Pit Bull Mix,Brown Brindle/White,1,0
+Pequena,3/25/2014 12:41:00,Cat,4 years,Domestic Shorthair Mix,Torbie,1,0
+Dax,9/9/2015 15:23:00,Dog,6 years,Dachshund/Bull Terrier,Brown,1,0
+Kitty Kitty,5/5/2015 13:52:00,Cat,5 years,Domestic Shorthair Mix,Orange Tabby,1,0
+,12/16/2015 19:40:00,Cat,4 months,Domestic Shorthair Mix,Brown Tabby,1,0
+Ellie,12/7/2013 15:40:00,Dog,3 years,Australian Kelpie Mix,Black Brindle,1,1
+Toffee,9/8/2015 16:12:00,Dog,2 years,German Shepherd Mix,Sable,1,1
+,10/5/2013 12:36:00,Dog,15 years,Dachshund Mix,Brown,0,0
+Sugar,11/16/2015 14:16:00,Cat,1 year,Siamese Mix,Tortie Point/Lynx Point,1,0
+Rocky,8/1/2015 12:59:00,Cat,2 years,Domestic Shorthair,Orange Tabby/White,1,0
+,10/1/2013 16:47:00,Cat,4 months,American Shorthair Mix,Black/White,0,0
+,6/6/2014 14:39:00,Cat,1 weeks,Domestic Shorthair Mix,Calico,0,0
+Bambi,8/20/2015 17:25:00,Dog,5 months,Pit Bull Mix,Fawn,1,1
