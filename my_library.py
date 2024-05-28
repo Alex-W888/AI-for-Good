@@ -35,3 +35,28 @@ def naive_bayes(table, evidence_row, target):
   #Use compute_probs to get 2 probabilities
   #return your 2 results in a list
   return compute_probs(neg, pos)
+
+
+
+def metrics(zipped_list):
+  assert isinstance(zipped_list,list), 'Parameter must be a list' 
+  assert all([isinstance(item, list) for item in zipped_list]), 'Parameter must be a list of lists'
+  assert all([len(item) ==2 for item in zipped_list]), 'Parameter must be a zipped list of pairs'
+  assert all([isinstance(a, int) and isinstance(b, int) for a,b in zipped_list]), 'Parameter must contain all integers'
+  assert all([ a >=0 and b >=0 for a,b in zipped_list]), 'Parameter must be greater or equal to zero '
+  
+
+  #body of function below
+  tn = sum([1 if pair==[0,0] else 0 for pair in zipped_list])
+  tp = sum([1 if pair==[1,1] else 0 for pair in zipped_list])
+  fp = sum([1 if pair==[1,0] else 0 for pair in zipped_list])
+  fn = sum([1 if pair==[0,1] else 0 for pair in zipped_list])
+
+  precision = tp/(tp+fp) if tp+fp != 0 else 0
+  recall = tp/(tp+fn) if tp+fn != 0 else 0
+  f1 = 2 * (precision * recall) / (precision + recall) if precision+recall != 0 else 0
+  accuracy = sum(1 if pair[0] == pair[1] else 0 for pair in zipped_list)/len(zipped_list)
+
+  new_dict = {'Precision': precision, 'Recall': recall, 'F1': f1, 'Accuracy': accuracy}
+
+  return new_dict
