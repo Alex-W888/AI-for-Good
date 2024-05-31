@@ -45,7 +45,7 @@ def metrics(zipped_list):
   assert all([ a >=0 and b >=0 for a,b in zipped_list]), 'Parameter must be greater or equal to zero '
   for a,b in zipped_list:
    assert isinstance(a,(int,float)) and isinstance(b,(int,float)), f'zipped_list contains a non-int or non-float pair: {[a,b]}'
-for a,b in zipped_list:
+  for a,b in zipped_list:
    assert float(a) in [0.0,1.0] and float(b) in [0.0,1.0], f'zipped_list contains a non-binary pair: {[a,b]}'
   
 
